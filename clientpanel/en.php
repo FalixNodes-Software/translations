@@ -66,3 +66,9 @@ $lang['coins']['invitefriends'] = "Invite your friends";
 $lang['coins']['joinforrewards'] = "Join for rewards";
 $lang['coins']['invitereward'] = "1,000 FalixCoins per invited friend";
 $lang['coins']['joinreward'] = "up to 50 FalixCoins per joined server";
+
+// affiliate page
+$lang['affiliate']['title'] = "Invite a friend and get 1,000 FalixCoins";
+$lang['affiliate']['description'] = "Invite your friends and get your reward in seconds.";
+$lang['affiliate']['seconddescription'] = "Invite your friends by copying website link from below and send it to your friends.";
+$lang['affiliate']['footer'] = "Once you've invited friends, you can <a href='https://client.falixnodes.net/affiliate/status'>view the status of your referrals</a> or contact us at our Discord server if you have any questions.";
