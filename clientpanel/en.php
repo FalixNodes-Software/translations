@@ -49,5 +49,20 @@ $lang['server']['deleteserver'] = "Delete Server";
 $lang['create']['createserver'] = "Create Server";
 $lang['create']['servername'] = "Server Name";
 $lang['create']['serverram'] = "Server RAM";
+$lang['create']['servergame'] = "Game";
+$lang['create']['allgames'] = "All supported games";
+$lang['create']['selectgame'] = "Select the game";
 $lang['create']['minecrafteula'] = "I accept the <a href='https://account.mojang.com/documents/minecraft_eula/'>Minecraft End User License Agreement (EULA)</a>";
 $lang['create']['createbutton'] = "Create";
+
+// coins page
+$lang['coins']['earnfalixcoins'] = "Earn FalixCoins";
+$lang['coins']['resourcestore'] = "FalixCoins Shop";
+$lang['coins']['task'] = "Task";
+$lang['coins']['reward'] = "Reward";
+$lang['coins']['earn'] = "Earn";
+$lang['coins']['claim'] = "Claim";
+$lang['coins']['invitefriends'] = "Invite your friends";
+$lang['coins']['joinforrewards'] = "Join for rewards";
+$lang['coins']['invitereward'] = "1,000 FalixCoins per invited friend";
+$lang['coins']['joinreward'] = "up to 50 FalixCoins per joined server";
