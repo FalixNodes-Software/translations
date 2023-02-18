@@ -1,5 +1,19 @@
 <?php
 
+// navigation bar
+$lang['nav']['dashboard'] = "Dashboard";
+$lang['nav']['coins'] = "Coins";
+$lang['nav']['mainpage'] = "Main Page";
+$lang['nav']['servers'] = "Servers";
+$lang['nav']['createserver'] = "Create Server";
+$lang['nav']['changeram'] = "Change RAM";
+$lang['nav']['alwaysonline'] = "Always Online";
+$lang['nav']['soon'] = "Soon";
+$lang['nav']['account'] = "Account";
+$lang['nav']['logintopanel'] = "Login to Panel";
+$lang['nav']['plandetails'] = "Plan Details";
+$lang['nav']['billing'] = "Billing";
+
 // notices
 $lang['notices']['premiumdiscount'] = "Get <b>10% discount</b> for <b>6 months</b> with coupon code <b>UPGRADE10</b> when upgrading your plan to Power and Ultimate.";
 $lang['notices']['premiumad'] = "Host your server on top notch hardware with added features like 24/7 online and ad-free website with our Falix Premium Plans for below market prices. <a href='https://falixnodes.net/minecraft-server-hosting'>Click me</a>!";
