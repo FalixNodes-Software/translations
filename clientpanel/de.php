@@ -15,7 +15,7 @@ $lang['nav']['plandetails'] = "Plan Details";
 $lang['nav']['billing'] = "Rechnungsstellung";
 
 // notices
-$lang['notices']['premiumdiscount'] = "Erhalten Sie bis zu <b>10 % Rabatt</b> für <b>6 Monate</b> mit dem Gutscheincode <b>UPGRADE10</b>, wenn Sie Ihren Tarif auf Power oder Ultimate upgraden wollen.";
+$lang['notices']['premiumdiscount'] = "Erhalten Sie bis zu <b>10 % Rabatt</b> bis zu <b>6 Monaten</b> mit dem Rabattcode <b>UPGRADE10</b>, wenn Sie Ihren Tarif auf Power oder Ultimate upgraden wollen.";
 $lang['notices']['premiumad'] = "Hosten Sie Ihren eigenen Server auf erstklassiger Hardware mit zusätzlichen Funktionen wie 24/7 Uptime und einer werbefreien Webseite mit unseren Premium Tarifen zu Preisen unter dem Marktniveau. <a href='https://falixnodes.net/minecraft-server-hosting'>Klick mich</a>!";
 
 
