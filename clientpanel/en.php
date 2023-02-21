@@ -7,6 +7,15 @@ $lang['title']['mainpage_description'] = "View and manage your Minecraft servers
 $lang['title']['createserver_title'] = "Create Server";
 $lang['title']['createserver_description'] = "Create your own Minecraft server.";
 
+$lang['title']['changeram_title'] = "Change RAM";
+$lang['title']['changeram_description'] = "Modify your server resources.";
+
+$lang['title']['alwaysonline_title'] = "Always Online";
+$lang['title']['alwaysonline_description'] = "Under construction.";
+
+$lang['title']['coins_title'] = "Coins";
+$lang['title']['coins_description'] = "Get coins and exchange them for Minecraft server boosts.";
+
 // navigation bar
 $lang['nav']['dashboard'] = "Dashboard";
 $lang['nav']['coins'] = "Coins";
@@ -29,6 +38,9 @@ $lang['error']['login_is_required_button'] = "Login";
 $lang['error']['create_new_server'] = "Create your own server!";
 $lang['error']['create_new_server_description'] = "You can create your first server within few clicks.";
 $lang['error']['create_new_server_button'] = "Create Server";
+
+$lang['error']['construction'] = "This page is under construction!";
+$lang['error']['construction_description'] = "We are currently working on this, meanwhile, sit tight and prepare.";
 
 // notices
 $lang['notices']['premiumdiscount'] = "Get <b>10% discount</b> for <b>6 months</b> with coupon code <b>UPGRADE10</b> when upgrading your plan to Power and Ultimate.";
@@ -196,6 +208,34 @@ $lang['profile']['changegamepanelpassword_button'] = "Change Password";
 $lang['profile']['deleteaccount_title'] = "Delete this account";
 $lang['profile']['deleteaccount_description'] = "Once you delete a account, there is no going back. Please be certain.";
 $lang['profile']['deleteaccount_button'] = "Delete Account";
+
+// falixcoins store
+$lang['store']['plan_expire_on'] = "Your plan will auto renew at";
+$lang['store']['month'] = "mo";
+$lang['store']['cancelplan'] = "Cancel Plan";
+$lang['store']['purchase'] = "Purchase Now";
+$lang['store']['booster'] = "Booster";
+
+$lang['store']['booster1_servers'] = "Create up to 3 servers";
+$lang['store']['booster1_cpu'] = "Get 120% CPU Power/each server";
+$lang['store']['booster1_ram'] = "Get 6 GB memory";
+$lang['store']['booster1_disk'] = "Get 15 GB disk/each server";
+$lang['store']['booster1_mysql'] = "Get 3 MySQL databases/each server";
+$lang['store']['booster1_ports'] = "Get 2 Extra Ports/each server";
+
+$lang['store']['booster2_servers'] = "Create up to 4 servers";
+$lang['store']['booster2_cpu'] = "Get 130% CPU Power/each server";
+$lang['store']['booster2_ram'] = "Get 7 GB memory";
+$lang['store']['booster2_disk'] = "Get 15 GB disk/each server";
+$lang['store']['booster2_mysql'] = "Get 3 MySQL databases/each server";
+$lang['store']['booster2_ports'] = "Get 2 Extra Ports/each server";
+
+$lang['store']['booster3_servers'] = "Create up to 5 servers";
+$lang['store']['booster3_cpu'] = "Get 140% CPU Power/each server";
+$lang['store']['booster3_ram'] = "Get 8 GB memory";
+$lang['store']['booster3_disk'] = "Get 15 GB disk/each server";
+$lang['store']['booster3_mysql'] = "Get 3 MySQL databases/each server";
+$lang['store']['booster3_ports'] = "Get 2 Extra Ports/each server";
 
 // tutorials
 $lang['tutorials']['createserver_stepone_title'] = "Create your server";
