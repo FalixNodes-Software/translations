@@ -55,6 +55,28 @@ $lang['resources']['diskbalance'] = "Disk Balance";
 $lang['resources']['databasesbalance'] = "Databases Balance";
 $lang['resources']['portsbalance'] = "Ports Balance";
 
+// login page
+$lang['auth']['login_title'] = "FalixNodes";
+$lang['auth']['login_description'] = "Get your free hosting now!";
+$lang['auth']['have_an_account'] = "Have an account?";
+$lang['auth']['have_an_account_button'] = "Log In";
+$lang['auth']['dont_have_account_yet'] = "Don't have an account? <br><a class='text-decoration-underline link-light' href='https://client.falixnodes.net/auth/register'>Get started!</a>";
+$lang['auth']['useragreement'] = "Read our <a class='text-decoration-underline text-white' href='https://falixnodes.net/user-agreement'>User Agreement</a>";
+$lang['auth']['loginform_title'] = "Account Login";
+$lang['auth']['form_email'] = "Email address";
+$lang['auth']['form_password'] = "Password";
+$lang['auth']['form_confirmpassword'] = "Confirm Password";
+$lang['auth']['loginform_forgotpassword'] = "Forgot Password?";
+$lang['auth']['loginform_button'] = "Login";
+$lang['auth']['oauthlogins'] = "or login with";
+$lang['auth']['register_oauthlogins'] = "or register with";
+$lang['auth']['google'] = "Google";
+$lang['auth']['discord'] = "Discord";
+$lang['auth']['registerform_title'] = "Register";
+$lang['auth']['registerform_button'] = "Register";
+$lang['auth']['registerform_tosaccept'] = "I accept the <a href='https://falixnodes.net/user-agreement'>user agreement </a>and <a href='https://falixnodes.net/privacy-policy'>privacy policy</a>";
+$lang['auth']['registerform_marketingconsent'] = "Tick this box if you want to receive marketing emails with our latest offers.";
+
 // index.php / main page
 $lang['manage_servers'] = "Control your servers with our user friendly game panel.";
 
