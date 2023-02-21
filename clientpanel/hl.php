@@ -55,6 +55,28 @@ $lang['resources']['diskbalance'] = "Disk बैलेंस ";
 $lang['resources']['databasesbalance'] = "Databases बैलेंस";
 $lang['resources']['portsbalance'] = "Ports बैलेंस";
 
+// login page
+$lang['auth']['login_title'] = "फेलिक्सनोड्स";
+$lang['auth']['login_description'] = "अपनी निःशुल्क होस्टिंग अभी प्राप्त करें!";
+$lang['auth']['have_an_account'] = "एक खाता है?";
+$lang['auth']['have_an_account_button'] = "लॉग इन करें";
+$lang['auth']['dont_have_account_yet'] = "खाता नहीं है? <br><a class='text-decoration-underline link-light' href='https://client.falixnodes.net/auth/register'>आरंभ करें!</a>";
+$lang['auth']['useragreement'] = "हमारा <a class='text-decoration-underline text-white' href='https://falixnodes.net/user-agreement'>उपयोगकर्ता अनुबंध पढ़ें </a>";
+$lang['auth']['loginform_title'] = "खाते में प्रवेश";
+$lang['auth']['form_email'] = "मेल पता";
+$lang['auth']['form_password'] = "पासवर्ड";
+$lang['auth']['form_confirmpassword'] = "पासवर्ड की पुष्टि कीजिये";
+$lang['auth']['loginform_forgotpassword'] = "पासवर्ड भूल गए?";
+$lang['auth']['loginform_button'] = "लॉग इन करें";
+$lang['auth']['oauthlogins'] = "या लॉगिन करें";
+$lang['auth']['register_oauthlogins'] = "या के साथ रजिस्टर करें";
+$lang['auth']['google'] = "Google";
+$lang['auth']['discord'] = "Discord";
+$lang['auth']['registerform_title'] = "पंजीकरण करवाना";
+$lang['auth']['registerform_button'] = "पंजीकरण करवाना";
+$lang['auth']['registerform_tosaccept'] = "मैं <a href='https://falixnodes.net/user-agreement'>उपयोगकर्ता अनुबंध </a>और <a href='https://falixnodes.net/privacy-policy'>गोपनीयता नीति</a> स्वीकार करता/करती हूं एक>";
+$lang['auth']['registerform_marketingconsent'] = "यदि आप हमारे नवीनतम प्रस्तावों के साथ मार्केटिंग ईमेल प्राप्त करना चाहते हैं तो इस बॉक्स को चेक करें।";
+
 // index.php / main page
 $lang['manage_servers'] = "हमारे उपयोगकर्ता के अनुकूल गेम पैनल के साथ अपने सर्वर को नियंत्रित करें।";
 
