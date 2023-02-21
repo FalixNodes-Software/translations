@@ -14,6 +14,15 @@ $lang['nav']['logintopanel'] = "Login to Panel";
 $lang['nav']['plandetails'] = "Plan Details";
 $lang['nav']['billing'] = "Billing";
 
+// errors
+$lang['error']['login_is_required'] = "Login is required!";
+$lang['error']['login_is_required_description'] = "Sign in to see your servers.";
+$lang['error']['login_is_required_button'] = "Login";
+
+$lang['error']['create_new_server'] = "Create your own server!";
+$lang['error']['create_new_server_description'] = "You can create your first server within few clicks.";
+$lang['error']['create_new_server_button'] = "Create Server";
+
 // notices
 $lang['notices']['premiumdiscount'] = "Get <b>10% discount</b> for <b>6 months</b> with coupon code <b>UPGRADE10</b> when upgrading your plan to Power and Ultimate.";
 $lang['notices']['premiumad'] = "Host your server on top notch hardware with added features like 24/7 online and ad-free website with our Falix Premium Plans for below market prices. <a href='https://falixnodes.net/minecraft-server-hosting'>Click me</a>!";
@@ -106,6 +115,7 @@ $lang['create']['allgames'] = "All supported games";
 $lang['create']['selectgame'] = "Select the game";
 $lang['create']['minecrafteula'] = "I accept the <a href='https://account.mojang.com/documents/minecraft_eula/'>Minecraft End User License Agreement (EULA)</a>";
 $lang['create']['createbutton'] = "Create";
+$lang['create']['adblock'] = "((( If button do not work after 3-5 seconds of waiting, please disable your adblock. )))";
 
 // change ram page
 $lang['changeram']['title'] = "Change RAM";
@@ -178,3 +188,34 @@ $lang['profile']['changegamepanelpassword_button'] = "Change Password";
 $lang['profile']['deleteaccount_title'] = "Delete this account";
 $lang['profile']['deleteaccount_description'] = "Once you delete a account, there is no going back. Please be certain.";
 $lang['profile']['deleteaccount_button'] = "Delete Account";
+
+// tutorials
+$lang['tutorials']['createserver_stepone_title'] = "Create your server";
+$lang['tutorials']['createserver_stepone'] = "Your first time being here? No worries!<br />
+Start using Falix by creating your first server. Navigate to <a href='/create' target='_blank'>Create Server page</a> and start the creation process by filling out the form.<br />
+<br />
+<b>Server Name:</b> Name your server like 'Friends Server' or 'My Server'.<br />
+<b>Server RAM:</b> This might be bit confusing, but don't worry! Read our explanation by <a data-bs-toggle='offcanvas' data-bs-target='#RAMExplanation' aria-controls='RAMExplanation' style='text-decoration: underline dotted; cursor: pointer;' href='#'>clicking here</a>.<br />
+<br />
+After you have filled the form, click 'Create' and... congratulations! Your first own server has been created. Navigate to 'Manage your server' to find out how to access it.";
+
+$lang['tutorials']['createserver_steptwo_title'] = "Manage your server";
+$lang['tutorials']['createserver_steptwo'] = "You have created your first server, what next?<br />
+Simple enough, you login to your game panel account by clicking the button 'Login to Game Panel' in the right corner of the servers table.<br />
+<br />
+After it, you will see game panel interface. Find your server in the interface and click on it. After it, make sure to navigate to Versions tab which can be found in the navigation bar.<br />
+<br />
+You will be then asked to select most appropriate software and version for your server. We recommend you to start with Paper since it is most optimized software available for all versions. Then please find your version and select it.<br />
+<br />
+Once you have done that, your server has been installed. Now navigate to your server console and start the server by clicking the button 'Start'.<br />
+<br />
+Awesome, your server is now running! Head to next tutorial to figure out how to connect to it.";
+
+$lang['tutorials']['createserver_stepthree_title'] = "Connect to your server";
+$lang['tutorials']['createserver_stepthree'] = "Your server is running, what next?<br />
+Time to play on it! But how?<br />
+<br />
+Start your Minecraft client with the version you have selected in the game panel. Done? Alrightly.<br />
+You should now find your server unique hostname and its port, it can be found in bottom of the Console page. It usually starts with <b>game#.falixserver.net:00000</b>. Found it? Select it and paste it in your Minecraft multiplayer.<br />
+<br />
+Connect to it and... Awesome, you are in! Have fun with your friends! Simple as that.";
