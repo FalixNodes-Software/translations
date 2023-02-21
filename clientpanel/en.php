@@ -1,5 +1,12 @@
 <?php
 
+// page titles
+$lang['title']['mainpage_title'] = "View Servers";
+$lang['title']['mainpage_description'] = "View and manage your Minecraft servers.";
+
+$lang['title']['createserver_title'] = "Create Server";
+$lang['title']['createserver_description'] = "Create your own Minecraft server.";
+
 // navigation bar
 $lang['nav']['dashboard'] = "Dashboard";
 $lang['nav']['coins'] = "Coins";
@@ -92,6 +99,7 @@ $lang['manage_servers'] = "Control your servers with our user friendly game pane
 // servers table
 $lang['servers'] = "Your Servers";
 $lang['logintogamepanel'] = "Login to Game Panel";
+$lang['logintogamepanel_button'] = "Game Panel";
 
 $lang['server']['name'] = "SERVER NAME";
 $lang['server']['cpu'] = "CPU";
