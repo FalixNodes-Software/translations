@@ -80,9 +80,9 @@ $lang['create']['createserver'] = "सर्वर बनाएँ";
 $lang['create']['servername'] = "सर्वर का नाम";
 $lang['create']['serverram'] = "सर्वर रैम";
 $lang['create']['servergame'] = "Game";
-$lang['create']['allgames'] = "All supported games";
-$lang['create']['selectgame'] = "Select the game";
-$lang['create']['minecrafteula'] = "I accept the <a href='https://account.mojang.com/documents/minecraft_eula/'>Minecraft End User License Agreement (EULA)</a>";
+$lang['create']['allgames'] = "सभी समर्थित खेल";
+$lang['create']['selectgame'] = "खेल का चयन करें";
+$lang['create']['minecrafteula'] = "मुझे <a href='https://account.mojang.com/documents/minecraft_eula/'>Minecraft End User License Agreement (EULA) स्वीकार है|</a>";
 $lang['create']['createbutton'] = "Create";
 
 // change ram page
@@ -99,7 +99,7 @@ $lang['coins']['task'] = "काम";
 $lang['coins']['reward'] = "पुरस्कार";
 $lang['coins']['earn'] = "कमाए";
 $lang['coins']['claim'] = "दावा";
-$lang['coins']['invitefriends'] = "अपने दोस्तों को आमंत्रित करें";
+$lang['coins']['invitefriends'] = "अपने दोस्तों को आमंत्रित पुरस्कार के लिए करें";
 $lang['coins']['joinforrewards'] = "अपने दोस्तों को आमंत्रित करें";
 $lang['coins']['invitereward'] = "1,000 Falix सिक्के प्रति आमंत्रित मित्र";
 $lang['coins']['joinreward'] = "प्रति ज्वाइन सर्वर 50 FalixCoins तक";
@@ -147,12 +147,12 @@ $lang['profile']['discord'] = "Discord";
 $lang['profile']['authorised'] = "के रूप में प्राधिकृत";
 $lang['profile']['linkdiscord'] = "जोड़ना Discord";
 $lang['profile']['unlinkdiscord'] = "हटाए Discord";
-$lang['profle']['notlinked'] = "आपके पास नहीं है Discord account अपने लिंक करने के लिए, खाते से लिंक किया गया Discord account, अपने को अधिकृत करें Discord account";
+$lang['profle']['notlinked'] = "आपका Discord Account यह Falix Account से Linked नही है। Link करने के लिए अपना Discord Account अधिकृत करे।";
 
 $lang['profile']['dangerzone'] = "खतरा क्षेत्र";
 $lang['profile']['changegamepanelpassword_title'] = "गेम पैनल का पासवर्ड बदलें";
 $lang['profile']['changegamepanelpassword_description'] = "गेम पैनल पासवर्ड बदलने के बाद, पुराना पासवर्ड काम नहीं करेगा।";
 $lang['profile']['changegamepanelpassword_button'] = "पासवर्ड बदलें";
-$lang['profile']['deleteaccount_title'] = "इस खाते को  Falix से हटा दें";
-$lang['profile']['deleteaccount_description'] = "एक बार जब आप खाता हटा देते हैं, तो वापस नहीं जा रहा है। कृपया निश्चिंत रहें।";
+$lang['profile']['deleteaccount_title'] = "इस खाते को  Falix से  हटा दें";
+$lang['profile']['deleteaccount_description'] = "एक बार जब आप खाता हटा देते हैं, तो वापस नहीं जा सकते। कृपया निश्चिंत रहें।";
 $lang['profile']['deleteaccount_button'] = "खाता हटा दो";
