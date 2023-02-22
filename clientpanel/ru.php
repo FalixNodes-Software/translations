@@ -107,7 +107,7 @@ $lang['server']['deleteserver'] = "Удалить сервер";
 // create server page
 $lang['create']['createserver'] = "Создать сервер";
 $lang['create']['servername'] = "Название сервера";
-$lang['create']['serverram'] = "Выделенное ОЗУ";
+$lang['create']['serverram'] = "Выделенное кол-во ОЗУ";
 $lang['create']['servergame'] = "Игра";
 $lang['create']['allgames'] = "Все поддерживаемые игры";
 $lang['create']['selectgame'] = "Выберите игру";
