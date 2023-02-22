@@ -54,8 +54,8 @@ $lang['widgets']['panel_resetpass'] = "Неправильный пароль? В
 $lang['widgets']['panel_loginbutton'] = "Войти";
 $lang['widgets']['panel_closebutton'] = "Закрыть";
 
-$lang['widgets']['changecpu_title'] = "Изменить выделенные ядра";
-$lang['widgets']['changecpu_newcpu'] = "Новое выделение ядер";
+$lang['widgets']['changecpu_title'] = "Изменить выделение процессора";
+$lang['widgets']['changecpu_newcpu'] = "Новое выделение процессора";
 $lang['widgets']['changecpu_changebutton'] = "Изменить";
 $lang['widgets']['changecpu_closebutton'] = "Закрыть";
 
@@ -79,7 +79,7 @@ $lang['links']['discordsupport_description'] = "Задать вопросы на
 // resources widget
 $lang['resources']['serversbalance'] = "Остаток серверов";
 $lang['resources']['rambalance'] = "Остаток ОЗУ";
-$lang['resources']['cpubalance'] = "Остаток ядер";
+$lang['resources']['cpubalance'] = "Остаток процессора";
 $lang['resources']['diskbalance'] = "Остаток памяти";
 $lang['resources']['databasesbalance'] = "Остаток баз данных";
 $lang['resources']['portsbalance'] = "Остаток портов";
@@ -99,7 +99,7 @@ $lang['server']['database'] = "БАЗА ДАННЫХ";
 $lang['server']['port'] = "ПОРТЫ";
 
 $lang['server']['gotoserver'] = "Перейти на сервер";
-$lang['server']['changecpu'] = "Изменить мощь процессора";
+$lang['server']['changecpu'] = "Изменить выделение процессора";
 $lang['server']['changeram'] = "Изменить ОЗУ";
 $lang['server']['changedisk'] = "Изменить память диска";
 $lang['server']['deleteserver'] = "Удалить сервер";
