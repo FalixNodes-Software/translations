@@ -188,7 +188,7 @@ $lang['profile']['disable'] = "Vypnúť";
 $lang['profile']['emailpreference_title'] = "Preferencie Emailu";
 $lang['profile']['emailpreference'] = "Zmeňte svoje preferencie pre email";
 
-$lang['profile']['changepassword_title'] = "Zmeniť Heslo;
+$lang['profile']['changepassword_title'] = "Zmeniť Heslo";
 $lang['profile']['changepassword_notice'] = "NB! Pokiaľ sa pokúšate zmeniť heslo od herného panelu, posuňte sa nadol na výzvu na zadanie nového hesla.";
 $lang['profile']['oldpassword'] = "Staré Heslo";
 $lang['profile']['newpassword'] = "Nové Heslo";
