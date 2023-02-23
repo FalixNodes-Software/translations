@@ -180,7 +180,7 @@ $lang['profile']['theme'] = "Chủ đề Website";
 $lang['profile']['textcolor'] = "Màu sắc chữ";
 
 $lang['profile']['serversettings_title'] = "Cài đặt máy chủ";
-$lang['profile']['externalserverstart'] = "Bật máy chủ bên ngoài;
+$lang['profile']['externalserverstart'] = "Bật máy chủ bên ngoài";
 $lang['profile']['update'] = "Nâng cấp";
 $lang['profile']['enable'] = "Bật";
 $lang['profile']['disable'] = "Tắt";
@@ -197,15 +197,15 @@ $lang['profile']['updatepassword'] = "Thay đổi mật khẩu";
 
 $lang['profile']['discord'] = "Discord";
 $lang['profile']['authorised'] = "Cho phép bằng";
-$lang['profile']['linkdiscord'] = "Liên kết Discord;
+$lang['profile']['linkdiscord'] = "Liên kết Discord";
 $lang['profile']['unlinkdiscord'] = "Ngắt liên kết Discord";
 $lang['profle']['notlinked'] = "Bạn Không có tài khoản Discord liên kết đến tài khoản, để liên kết mật khẩu với Discord, hãy ủy quyền tài khoản discord Discord";
 
 $lang['profile']['dangerzone'] = "Vùng nguy hiểm";
-$lang['profile']['changegamepanelpassword_title'] = "Thay đổi mật khẩu bảng điều khiển trò chơi;
+$lang['profile']['changegamepanelpassword_title'] = "Thay đổi mật khẩu bảng điều khiển trò chơi";
 $lang['profile']['changegamepanelpassword_description'] = "Một khi bạn đã thay đổi mật khẩu bảng điều khiển trò chơi, mật khẩu cũ sẽ không hoạt động nữa.";
 $lang['profile']['changegamepanelpassword_button'] = "Thay đổi mật khẩu";
-$lang['profile']['deleteaccount_title'] = "Xóa tài khoản này;
+$lang['profile']['deleteaccount_title'] = "Xóa tài khoản này";
 $lang['profile']['deleteaccount_description'] = "Một khi bạn xóa tài khoản này, sẽ không thể trở lại. Vui lòng chắc chắn với quyết định.";
 $lang['profile']['deleteaccount_button'] = "Xóa tài khoản";
 
@@ -223,7 +223,7 @@ $lang['store']['booster1_disk'] = "Lấy 15 GB disk/mỗi máy chủ";
 $lang['store']['booster1_mysql'] = "Lấy 3 MySQL databases/mỗi máy chủ";
 $lang['store']['booster1_ports'] = "Lấy 2 Extra Ports/mỗi máy chủ";
 
-$lang['store']['booster2_servers'] = "Có thể tạo đến 4 máy chủ;
+$lang['store']['booster2_servers'] = "Có thể tạo đến 4 máy chủ";
 $lang['store']['booster2_cpu'] = "Lấy 130% CPU Power/mỗi máy chủ";
 $lang['store']['booster2_ram'] = "Lấy 7 GB memory";
 $lang['store']['booster2_disk'] = "Lấy 15 GB disk/mỗi máy chủ";
