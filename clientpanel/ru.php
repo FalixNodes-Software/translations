@@ -39,7 +39,6 @@ $lang['error']['create_new_server'] = "Создайте свой сервер!";
 $lang['error']['create_new_server_description'] = "Создайте свой первый сервер в пару кликов.";
 $lang['error']['create_new_server_button'] = "Создать";
 
-
 $lang['error']['construction'] = "Страница ещё не готова!";
 $lang['error']['construction_description'] = "Мы ещё работаем над этой функцией.";
 
@@ -84,12 +83,35 @@ $lang['resources']['diskbalance'] = "Остаток памяти";
 $lang['resources']['databasesbalance'] = "Остаток баз данных";
 $lang['resources']['portsbalance'] = "Остаток портов";
 
+// login page
+$lang['auth']['login_title'] = "FalixNodes";
+$lang['auth']['login_description'] = "Бесплатный хостинг, тут и сейчас";
+$lang['auth']['have_an_account'] = "У вас есть аккаунт?";
+$lang['auth']['have_an_account_button'] = "Войти";
+$lang['auth']['dont_have_account_yet'] = "У вас нет аккаунта? <br><a class='text-decoration-underline link-light' href='https://client.falixnodes.net/auth/register'>Начните здесь!</a>";
+$lang['auth']['useragreement'] = "Прочтите наше <a class='text-decoration-underline text-white' href='https://falixnodes.net/user-agreement'>пользовательское соглашение</a>";
+$lang['auth']['loginform_title'] = "Вход в аккаунт";
+$lang['auth']['form_email'] = "E-mail";
+$lang['auth']['form_password'] = "Пароль";
+$lang['auth']['form_confirmpassword'] = "Подтвердите пароль";
+$lang['auth']['loginform_forgotpassword'] = "Забыли пароль?";
+$lang['auth']['loginform_button'] = "Войти";
+$lang['auth']['oauthlogins'] = "Войти с";
+$lang['auth']['register_oauthlogins'] = "Зарегистрироваться с";
+$lang['auth']['google'] = "Google";
+$lang['auth']['discord'] = "Discord";
+$lang['auth']['registerform_title'] = "Регистрация";
+$lang['auth']['registerform_button'] = "Зарегистрироваться";
+$lang['auth']['registerform_tosaccept'] = "Я принимаю <a href='https://falixnodes.net/user-agreement'>пользовательское соглашение </a>и <a href='https://falixnodes.net/privacy-policy'>политику конфиденциальности</a>";
+$lang['auth']['registerform_marketingconsent'] = "Поставьте галочку если хотите получать маркетинговые сообщения на e-mail с самыми новыми предложениями.";
+
 // index.php / main page
 $lang['manage_servers'] = "Управляй своими серверами с нашей интуитивной игровой панелью.";
 
 // servers table
 $lang['servers'] = "Ваши сервера";
 $lang['logintogamepanel'] = "Войти в игровую панель";
+$lang['logintogamepanel_button'] = "Войти";
 
 $lang['server']['name'] = "НАЗВАНИЕ СЕРВЕРА";
 $lang['server']['cpu'] = "ПРОЦЕССОР";
@@ -113,6 +135,7 @@ $lang['create']['allgames'] = "Все поддерживаемые игры";
 $lang['create']['selectgame'] = "Выберите игру";
 $lang['create']['minecrafteula'] = "Я соглашаюсь с <a href='https://account.mojang.com/documents/minecraft_eula/'>Minecraft End User License Agreement (EULA)</a>";
 $lang['create']['createbutton'] = "Создать";
+$lang['create']['adblock'] = "((( Если кнопка не работает после 3-5 секунд, выключите ваш блокировщик рекламы. )))";
 
 // change ram page
 $lang['changeram']['title'] = "Изменить ОЗУ";
@@ -223,6 +246,7 @@ $lang['tutorials']['createserver_stepone'] = "Первый раз? Не волн
 <b>ОЗУ сервера:</b> Это немного сложная тема, но по ссылке есть наше обьяснение! <a data-bs-toggle='offcanvas' data-bs-target='#RAMExplanation' aria-controls='RAMExplanation' style='text-decoration: underline dotted; cursor: pointer;' href='#'>Ссылка</a>.<br />
 <br />
 После заполнения всей информации, нажмите 'Создать' и... готово! Ваш первый сервер создан. Обратитесь к туториалу 'Управление сервером' для конфигурации.";
+
 $lang['tutorials']['createserver_steptwo_title'] = "Управление сервером";
 $lang['tutorials']['createserver_steptwo'] = "Вы создали свой сервер, что дальше?<br />
 Всё просто, войдите в аккаунт игровой панели, нажав на 'Войти в игровую панель' в правом углу таблицы серверов.<br />
@@ -234,6 +258,7 @@ $lang['tutorials']['createserver_steptwo'] = "Вы создали свой се�
 Если вы выбрали ядро и версию, все нужные файлы будут установлены на сервер. Теперь возращайтесь в консоль и нажмите на кнопку 'Start'.<br />
 <br />
 Теперь ваш сервер запущен и уже ждёт игроков! Следующий туториал поможет с поиском айпи и порта сервера и подключением к нему.";
+
 $lang['tutorials']['createserver_stepthree_title'] = "Подключение к серверу";
 $lang['tutorials']['createserver_stepthree'] = "Сервер запущен, что дальше?<br />
 Пора играть на нём! Но как?<br />
