@@ -76,12 +76,12 @@ $lang['links']['discordsupport'] = "Soporte de Discord";
 $lang['links']['discordsupport_description'] = "Haz tus preguntas a nuestra comunidad";
 
 // resources widget
-$lang['resources']['serversbalance'] = "Servers Balance";
-$lang['resources']['rambalance'] = "RAM Balance";
-$lang['resources']['cpubalance'] = "CPU Balance";
-$lang['resources']['diskbalance'] = "Disk Balance";
-$lang['resources']['databasesbalance'] = "Databases Balance";
-$lang['resources']['portsbalance'] = "Ports Balance";
+$lang['resources']['serversbalance'] = "Servidores creados";
+$lang['resources']['rambalance'] = "RAM máxima usable";
+$lang['resources']['cpubalance'] = "CPU máxima usable";
+$lang['resources']['diskbalance'] = "Espacio máximo usable";
+$lang['resources']['databasesbalance'] = "Databases máximas usables";
+$lang['resources']['portsbalance'] = "Puertos máximos usables";
 
 // login page
 $lang['auth']['login_title'] = "FalixNodes";
