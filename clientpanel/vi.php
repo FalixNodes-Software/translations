@@ -43,7 +43,7 @@ $lang['error']['construction'] = "Trang này đang được xây dựng!";
 $lang['error']['construction_description'] = "Chúng tôi đang làm việc này, trong lúc đó hãy ngồi yên và chuẩn bị.";
 
 // notices
-$lang['notices']['premiumdiscount'] = "Nhận <b>10% giảm giá</b> cho <b>6 tháng</b> với mã code <b>UPGRADE10</b> khi nâng cấp plan bạn qua Power và Ultimate.";
+$lang['notices']['premiumdiscount'] = "Nhận <b>10% giảm giá</b> cho <b>6 tháng</b> với mã code <b>UPGRADE10</b> khi bạn nâng cấp plan qua Power và Ultimate.";
 $lang['notices']['premiumad'] = "Lưu trữ máy chủ bạn trên phần cứng hàng đầu và thêm chức năng 24/7 trực tuyến và xóa quảng cáo trên website cùng với Falix Premium Plans vì nó rẻ hơn giá thị trường. <a href='https://falixnodes.net/minecraft-server-hosting'>Nhấn vào</a>!";
 
 // widgets
@@ -199,7 +199,7 @@ $lang['profile']['discord'] = "Discord";
 $lang['profile']['authorised'] = "Cho phép bằng";
 $lang['profile']['linkdiscord'] = "Liên kết Discord";
 $lang['profile']['unlinkdiscord'] = "Ngắt liên kết Discord";
-$lang['profle']['notlinked'] = "Bạn Không có tài khoản Discord liên kết đến tài khoản, để liên kết mật khẩu với Discord, hãy ủy quyền tài khoản discord Discord";
+$lang['profle']['notlinked'] = "Bạn Không có tài khoản Discord liên kết đến tài khoản, để liên kết mật khẩu với Discord, hãy ủy quyền tài khoản Discord";
 
 $lang['profile']['dangerzone'] = "Vùng nguy hiểm";
 $lang['profile']['changegamepanelpassword_title'] = "Thay đổi mật khẩu bảng điều khiển trò chơi";
@@ -261,9 +261,9 @@ Tuyệt, máy chủ bạn đang chạy! Đi đến hướng dẫn tiếp theo đ
 
 $lang['tutorials']['createserver_stepthree_title'] = "Kết nối đến máy chủ của bạn";
 $lang['tutorials']['createserver_stepthree'] = "Máy chủ bạn đang chạy, làm gì tiếp theo?<br />
-Thời gian để chơi nó! Nhưng làm sao?<br />
+Đây là thời gian để chơi nó! Nhưng làm sao?<br />
 <br />
-Mở minecraft của bạn lên cùng với phiên bản đã chọn trong bảng điều khiển trò chơi. Xong? Được rồi.<br />
-Bạn nên tìm hostname và port của máy chủ bạn, nó có thể tìm thấy ở dưới của trang bảng điều khiển. Nó bắt đầy với <b>game#.falixserver.net:00000</b>. Đã tìm thấy nó? Chọn nó và dán nó trong Minecraft nhiều người chơi của bạn.<br />
+Mở Minecraft của bạn lên cùng với phiên bản đã chọn trong bảng điều khiển trò chơi. Đã xong? Được rồi.<br />
+Bạn nên tìm hostname và port của máy chủ bạn, nó có thể tìm thấy ở dưới của trang bảng điều khiển. Nó bắt đầu với <b>game#.falixserver.net:00000</b>. Đã tìm thấy nó? Chọn nó và dán nó trong Minecraft nhiều người chơi của bạn.<br />
 <br />
 Kết nối đến nó và... Tuyệt vời, bạn đang ở trong! Chúc vui vẻ với bạn bè của bạn! Đơn giản thiệt đó.";
