@@ -27,7 +27,7 @@ $lang['nav']['alwaysonline'] = "Luôn trực tuyến";
 $lang['nav']['soon'] = "Sắp có";
 $lang['nav']['account'] = "Tài khoản";
 $lang['nav']['logintopanel'] = "Đăng nhập vào bảng điều khiển";
-$lang['nav']['plandetails'] = "Thông tin Plan";
+$lang['nav']['plandetails'] = "Thông tin gói";
 $lang['nav']['billing'] = "Hóa đơn";
 
 // errors
@@ -43,7 +43,7 @@ $lang['error']['construction'] = "Trang này đang được xây dựng!";
 $lang['error']['construction_description'] = "Chúng tôi đang làm việc này, trong lúc đó hãy ngồi yên và chuẩn bị.";
 
 // notices
-$lang['notices']['premiumdiscount'] = "Nhận <b>10% giảm giá</b> cho <b>6 tháng</b> với mã code <b>UPGRADE10</b> khi bạn nâng cấp plan qua Power và Ultimate.";
+$lang['notices']['premiumdiscount'] = "Nhận <b>10% giảm giá</b> cho <b>6 tháng</b> với code <b>UPGRADE10</b> khi bạn nâng cấp gói của bạn thành Power và Ultimate.";
 $lang['notices']['premiumad'] = "Lưu trữ máy chủ bạn trên phần cứng hàng đầu và thêm chức năng 24/7 trực tuyến và xóa quảng cáo trên website cùng với Falix Premium Plans vì nó rẻ hơn giá thị trường. <a href='https://falixnodes.net/minecraft-server-hosting'>Nhấn vào</a>!";
 
 // widgets
@@ -72,7 +72,7 @@ $lang['links']['coinshop'] = "Cửa hàng FalixCoins";
 $lang['links']['coinshop_description'] = "Mua tăng cường cho máy chủ Minecraft của bạn";
 $lang['links']['coins'] = "Kiếm FalixCoins miễn phí";
 $lang['links']['coins_description'] = "Tăng cường máy chủ bới tiền ảo của chúng tôi";
-$lang['links']['discordsupport'] = "Discord Hỗ trợ";
+$lang['links']['discordsupport'] = "Hỗ trợ Discord";
 $lang['links']['discordsupport_description'] = "Hỏi câu hỏi của bạn trong cộng đồng của chúng tôi";
 
 // resources widget
@@ -138,10 +138,10 @@ $lang['create']['createbutton'] = "Tạo";
 $lang['create']['adblock'] = "((( Nếu nút này không hoạt động trong 3-5 giây chờ đợi, vui lòng tắt trình chặn quảng cáo của bạn. )))";
 
 // change ram page
-$lang['changeram']['title'] = "Thay đổi RAM";
+$lang['changeram']['title'] = "Thay đổi dung lượng RAM";
 $lang['changeram']['servername'] = "Tên máy chủ";
-$lang['changeram']['currentram'] = "RAM hiện tại";
-$lang['changeram']['newram'] = "RAM mới";
+$lang['changeram']['currentram'] = "Dung lượng RAM hiện tại";
+$lang['changeram']['newram'] = "Dung lượng RAM mới";
 $lang['changeram']['changerambutton'] = "Thay đổi RAM";
 
 // coins page
@@ -205,14 +205,14 @@ $lang['profile']['dangerzone'] = "Vùng nguy hiểm";
 $lang['profile']['changegamepanelpassword_title'] = "Thay đổi mật khẩu bảng điều khiển trò chơi";
 $lang['profile']['changegamepanelpassword_description'] = "Một khi bạn đã thay đổi mật khẩu bảng điều khiển trò chơi, mật khẩu cũ sẽ không hoạt động nữa.";
 $lang['profile']['changegamepanelpassword_button'] = "Thay đổi mật khẩu";
-$lang['profile']['deleteaccount_title'] = "Xóa tài khoản này";
-$lang['profile']['deleteaccount_description'] = "Một khi bạn xóa tài khoản này, sẽ không thể trở lại. Vui lòng chắc chắn với quyết định.";
+$lang['profile']['deleteaccount_title'] = "Xóa tài khoản";
+$lang['profile']['deleteaccount_description'] = "Một khi bạn xóa tài khoản, nó sẽ không thể được khôi phục lại. Xin hãy chắc chắn với quyết định này.";
 $lang['profile']['deleteaccount_button'] = "Xóa tài khoản";
 
 // falixcoins store
-$lang['store']['plan_expire_on'] = "Plan của bạn sẽ được tự động gia hạn lại trong";
+$lang['store']['plan_expire_on'] = "Gói của bạn sẽ được tự động gia hạn lại trong";
 $lang['store']['month'] = "tháng";
-$lang['store']['cancelplan'] = "Hủy Plan";
+$lang['store']['cancelplan'] = "Hủy gói";
 $lang['store']['purchase'] = "Mua ngay";
 $lang['store']['booster'] = "Tăng cường";
 
