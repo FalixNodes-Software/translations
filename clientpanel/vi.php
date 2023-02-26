@@ -2,10 +2,10 @@
 
 // page titles
 $lang['title']['mainpage_title'] = "Xem máy chủ";
-$lang['title']['mainpage_description'] = "Xem và quản lí máy chủ.";
+$lang['title']['mainpage_description'] = "Xem và quản lý máy chủ.";
 
 $lang['title']['createserver_title'] = "Tạo máy chủ";
-$lang['title']['createserver_description'] = "Tạo máy chủ minecraft của bạn.";
+$lang['title']['createserver_description'] = "Tạo máy chủ Minecraft của bạn.";
 
 $lang['title']['changeram_title'] = "Thay đổi RAM";
 $lang['title']['changeram_description'] = "Thay đổi tài nguyên máy chủ.";
@@ -14,7 +14,7 @@ $lang['title']['alwaysonline_title'] = "Luôn trực tuyến";
 $lang['title']['alwaysonline_description'] = "Đang xây dựng.";
 
 $lang['title']['coins_title'] = "Xu";
-$lang['title']['coins_description'] = "Lấy xu và tăng cường máy chủ minecraft của bạn.";
+$lang['title']['coins_description'] = "Lấy xu và nâng cấp hiệu năng máy chủ Minecraft của bạn.";
 
 // navigation bar
 $lang['nav']['dashboard'] = "Bảng điều khiển";
@@ -35,16 +35,16 @@ $lang['error']['login_is_required'] = "Yêu cầu đăng nhập!";
 $lang['error']['login_is_required_description'] = "Đăng nhập để xem máy chủ của bạn.";
 $lang['error']['login_is_required_button'] = "Login";
 
-$lang['error']['create_new_server'] = "Tạo server của bạn!";
-$lang['error']['create_new_server_description'] = "Bạn có thể tạo server chỉ với vài cái nhấp chuột.";
+$lang['error']['create_new_server'] = "Tạo máy chủ của bạn!";
+$lang['error']['create_new_server_description'] = "Bạn có thể tạo máy chủ chỉ với vài cú nhấp chuột.";
 $lang['error']['create_new_server_button'] = "Tạo máy chủ";
 
 $lang['error']['construction'] = "Trang này đang được xây dựng!";
 $lang['error']['construction_description'] = "Chúng tôi đang làm việc này, trong lúc đó hãy ngồi yên và chuẩn bị.";
 
 // notices
-$lang['notices']['premiumdiscount'] = "Lấy <b>10% giảm giá</b> cho <b>6 tháng</b> với mã code <b>UPGRADE10</b> khi nâng cấp plan bạn qua Power và Ultimate.";
-$lang['notices']['premiumad'] = "Lưu trữ máy chủ bạn trên phần cứng hàng đầu và thêm chức năng  24/7 trực tuyến và xóa quảng cáo trên website cùng với Falix Premium Plans vì nó rẻ hơn giá thị trường. <a href='https://falixnodes.net/minecraft-server-hosting'>Nhấn vào</a>!";
+$lang['notices']['premiumdiscount'] = "Nhận <b>10% giảm giá</b> cho <b>6 tháng</b> với mã code <b>UPGRADE10</b> khi bạn nâng cấp plan qua Power và Ultimate.";
+$lang['notices']['premiumad'] = "Lưu trữ máy chủ bạn trên phần cứng hàng đầu và thêm chức năng 24/7 trực tuyến và xóa quảng cáo trên website cùng với Falix Premium Plans vì nó rẻ hơn giá thị trường. <a href='https://falixnodes.net/minecraft-server-hosting'>Nhấn vào</a>!";
 
 // widgets
 $lang['widgets']['panel_title'] = "Thông tin bảng điều khiển của bạn";
@@ -59,7 +59,7 @@ $lang['widgets']['changecpu_changebutton'] = "Thay đổi CPU";
 $lang['widgets']['changecpu_closebutton'] = "Đóng";
 
 $lang['widgets']['changedisk_title'] = "Thay đổi Disk";
-$lang['widgets']['changedisk_newcpu'] = "Không gian đĩa mới của máy chủ (trong MB)";
+$lang['widgets']['changedisk_newcpu'] = "Không gian đĩa mới của máy chủ (MB)";
 $lang['widgets']['changedisk_changebutton'] = "Thay đổi Disk";
 $lang['widgets']['changedisk_closebutton'] = "Đóng";
 
@@ -67,13 +67,13 @@ $lang['widgets']['changedisk_closebutton'] = "Đóng";
 $lang['links']['quicklinks'] = "Liên kết nhanh";
 $lang['links']['quicklinks_description'] = "Điều hướng qua bảng điều khiển với liên kết nhanh";
 $lang['links']['createserver'] = "Tạo máy chủ của bạn";
-$lang['links']['createserver_description'] = "Tạo máy chủ minecraft server của bạn";
-$lang['links']['coinshop'] = "Cửa hàng trong FalixCoins Store";
+$lang['links']['createserver_description'] = "Tạo máy chủ Minecraft của bạn";
+$lang['links']['coinshop'] = "Cửa hàng FalixCoins";
 $lang['links']['coinshop_description'] = "Mua tăng cường cho máy chủ Minecraft của bạn";
 $lang['links']['coins'] = "Kiếm FalixCoins miễn phí";
-$lang['links']['coins_description'] = "Tăng cường máy chủ bới tiền ảo của chúng tiền";
+$lang['links']['coins_description'] = "Tăng cường máy chủ bới tiền ảo của chúng tôi";
 $lang['links']['discordsupport'] = "Discord Hỗ trợ";
-$lang['links']['discordsupport_description'] = "hỏi câu hỏi của bạn trong cộng đồng của chúng tôi";
+$lang['links']['discordsupport_description'] = "Hỏi câu hỏi của bạn trong cộng đồng của chúng tôi";
 
 // resources widget
 $lang['resources']['serversbalance'] = "Số lượng máy chủ";
@@ -85,7 +85,7 @@ $lang['resources']['portsbalance'] = "Số lượng Port";
 
 // login page
 $lang['auth']['login_title'] = "FalixNodes";
-$lang['auth']['login_description'] = "Lấy máy chủ miễn phí của bạn ngay thôi!";
+$lang['auth']['login_description'] = "Nhận máy chủ miễn phí của bạn ngay thôi!";
 $lang['auth']['have_an_account'] = "Đã có tài khoản?";
 $lang['auth']['have_an_account_button'] = "Đăng nhập";
 $lang['auth']['dont_have_account_yet'] = "Không có tài khoản? <br><a class='text-decoration-underline link-light' href='https://client.falixnodes.net/auth/register'>Bắt đầu!</a>";
@@ -97,16 +97,16 @@ $lang['auth']['form_confirmpassword'] = "Xác nhận mật khẩu";
 $lang['auth']['loginform_forgotpassword'] = "Lấy lại mật khẩu?";
 $lang['auth']['loginform_button'] = "Đăng nhập";
 $lang['auth']['oauthlogins'] = "hoặc đăng nhập với";
-$lang['auth']['register_oauthlogins'] = "hoặc đăng kí với";
+$lang['auth']['register_oauthlogins'] = "hoặc đăng ký với";
 $lang['auth']['google'] = "Google";
 $lang['auth']['discord'] = "Discord";
-$lang['auth']['registerform_title'] = "Đăng kí";
-$lang['auth']['registerform_button'] = "Đăng kí";
+$lang['auth']['registerform_title'] = "Đăng ký";
+$lang['auth']['registerform_button'] = "Đăng ký";
 $lang['auth']['registerform_tosaccept'] = "Chấp nhận <a href='https://falixnodes.net/user-agreement'>điều khoản người dùng </a>và <a href='https://falixnodes.net/privacy-policy'>chính sách bảo mật</a>";
 $lang['auth']['registerform_marketingconsent'] = "Tick this box if you want to receive marketing emails with our latest offers.";
 
 // index.php / main page
-$lang['manage_servers'] = "Điều khiển máy chủ bạn với bản điều khiển dễ sử dụng của chúng tôi.";
+$lang['manage_servers'] = "Điều khiển máy chủ bạn với bảng điều khiển dễ sử dụng của chúng tôi.";
 
 // servers table
 $lang['servers'] = "Máy chủ của bạn";
@@ -135,7 +135,7 @@ $lang['create']['allgames'] = "Tất cả trò chơi hỗ trợ";
 $lang['create']['selectgame'] = "Chọn trò chơi";
 $lang['create']['minecrafteula'] = "Chấp nhận <a href='https://account.mojang.com/documents/minecraft_eula/'>thỏa thuận cấp phép người dùng cuối Minecraft (EULA)</a>";
 $lang['create']['createbutton'] = "Tạo";
-$lang['create']['adblock'] = "((( Nếu nút không hoạt động trong 3-5 giây chờ đợi, vui lòng tắt chặn quản cáo của bạn. )))";
+$lang['create']['adblock'] = "((( Nếu nút này không hoạt động trong 3-5 giây chờ đợi, vui lòng tắt trình chặn quảng cáo của bạn. )))";
 
 // change ram page
 $lang['changeram']['title'] = "Thay đổi RAM";
@@ -157,9 +157,9 @@ $lang['coins']['invitereward'] = "1,000 FalixCoins mỗi người bạn mời v�
 $lang['coins']['joinreward'] = "lên đến 50 FalixCoins mỗi khi vào máy chủ";
 
 // affiliate page
-$lang['affiliate']['title'] = "Mời bạn bè của bạn và lấy 1,000 FalixCoins";
+$lang['affiliate']['title'] = "Mời bạn bè của bạn và nhận 1,000 FalixCoins";
 $lang['affiliate']['description'] = "Mời bạn bè của bạn và nhận lấy phần thưởng trong vài giây.";
-$lang['affiliate']['seconddescription'] = "Mời bạn bè của bạn qua đường liên kết website sao chép từ dưới và gửi nó đến bạn của bạn.";
+$lang['affiliate']['seconddescription'] = "Mời bạn bè của bạn qua đường liên kết website sao chép từ dưới và gửi nó cho bạn của bạn.";
 $lang['affiliate']['footer'] = "Khi bạn mời bạn bè, bạn có thể <a href='https://client.falixnodes.net/affiliate/status'>xem trạng thái của giới thiệt của bạn</a> hoặc liên hệ chúng tôi tại máy chủ Discord nếu bạn có câu hỏi.";
 
 // activity page
@@ -199,7 +199,7 @@ $lang['profile']['discord'] = "Discord";
 $lang['profile']['authorised'] = "Cho phép bằng";
 $lang['profile']['linkdiscord'] = "Liên kết Discord";
 $lang['profile']['unlinkdiscord'] = "Ngắt liên kết Discord";
-$lang['profle']['notlinked'] = "Bạn Không có tài khoản Discord liên kết đến tài khoản, để liên kết mật khẩu với Discord, hãy ủy quyền tài khoản discord Discord";
+$lang['profle']['notlinked'] = "Bạn Không có tài khoản Discord liên kết đến tài khoản, để liên kết mật khẩu với Discord, hãy ủy quyền tài khoản Discord";
 
 $lang['profile']['dangerzone'] = "Vùng nguy hiểm";
 $lang['profile']['changegamepanelpassword_title'] = "Thay đổi mật khẩu bảng điều khiển trò chơi";
@@ -245,15 +245,15 @@ Bắt đầu sử dụng Falix qua việc tạo máy chủ đầu tiên của b�
 <b>Tên máy chủ:</b> Tên máy chủ bạn thích 'Friends Server' hoặc 'My Server'.<br />
 <b>RAM máy chủ:</b> Điều này có chút khó hiểu, nhưng đừng lo! Đọc giải thích của chúng tôi bằng cách <a data-bs-toggle='offcanvas' data-bs-target='#RAMExplanation' aria-controls='RAMExplanation' style='text-decoration: underline dotted; cursor: pointer;' href='#'>nhấn vào đây</a>.<br />
 <br />
-Sau khi điền vào mẫu, bấm 'Tạo' và... thành công rồi! Máy chủ đầu tiên của bạn đã được tạo. Đi đến 'Quảng lí máy chủ của bạn' để tìm cách để truy cập nó.";
+Sau khi điền vào mẫu, bấm 'Tạo' và... thành công rồi! Máy chủ đầu tiên của bạn đã được tạo. Đi đến 'Quản lý máy chủ của bạn' để tìm cách để truy cập nó.";
 
-$lang['tutorials']['createserver_steptwo_title'] = "Quảng lí máy chủ của bạn";
+$lang['tutorials']['createserver_steptwo_title'] = "Quản lý máy chủ của bạn";
 $lang['tutorials']['createserver_steptwo'] = "Bạn đã tạo máy chủ đầu tiên, tiếp theo là gì?<br />
 Khá đơn giản, bạn đăng nhập vào bản điều khiển trò chơi với tài khoản qua khi nhấp chuột vào nút 'Đăng nhập bảng điều khiển trò chơi' ở góc bên phải hoặc tại bảng của máy chủ.<br />
 <br />
-Sau đó, Bạn nhìn thấy giao diện bảng điều khiển trò chơi. Tìm máy chủ bạn tại giao diện và nhấn vào đó. Sau đó, hãy chuyển sang tab Phiên bản ở trong thanh điều hướng.<br />
+Sau đó, Bạn nhìn thấy giao diện bảng điều khiển trò chơi. Tìm máy chủ của bạn tại giao diện và nhấn vào đó. Sau đó, hãy chuyển sang tab Phiên bản ở trong thanh điều hướng.<br />
 <br />
-Nó sẽ yêu cầu bạn chọn phần mền và phiên bản cho máy chủ của bạn. Chúng tôi khuyên bạn nên bắt đầu với Paper vì đây là phần mền có tất cả  các phiên bản. Sau đó vui lòng tìm phiên bản của bạn và chọn nó.<br />
+Nó sẽ yêu cầu bạn chọn phần mền và phiên bản cho máy chủ của bạn. Chúng tôi khuyên bạn nên bắt đầu với Paper vì đây là phần mền có tất cả các phiên bản. Sau đó vui lòng tìm phiên bản của bạn và chọn nó.<br />
 <br />
 Khi bạn làm xong điều đó, máy chủ bạn đã được cài đặt. Ngay bây giờ hãy đến bảng điều khiển của server và bắt đầu máy chủ bằng cách nhấn nút 'Bắt đầu'.<br />
 <br />
@@ -261,9 +261,9 @@ Tuyệt, máy chủ bạn đang chạy! Đi đến hướng dẫn tiếp theo đ
 
 $lang['tutorials']['createserver_stepthree_title'] = "Kết nối đến máy chủ của bạn";
 $lang['tutorials']['createserver_stepthree'] = "Máy chủ bạn đang chạy, làm gì tiếp theo?<br />
-Thời gian để chơi nó! Nhưng làm sao?<br />
+Đây là thời gian để chơi nó! Nhưng làm sao?<br />
 <br />
-Mở minecraft của bạn lên cùng với phiên bản đã chọn trong bảng điều khiển trò chơi. Xong? Được rồi.<br />
-Bạn nên tìm hostname và port của máy chủ bạn, nó có thể tìm thấy ở dưới của trang bảng điều khiển. Nó bắt đầy với <b>game#.falixserver.net:00000</b>. Tìm thấy nó? Chọn nó và dán nó trong Minecraft nhiều người chơi của bạn.<br />
+Mở Minecraft của bạn lên cùng với phiên bản đã chọn trong bảng điều khiển trò chơi. Đã xong? Được rồi.<br />
+Bạn nên tìm hostname và port của máy chủ bạn, nó có thể tìm thấy ở dưới của trang bảng điều khiển. Nó bắt đầu với <b>game#.falixserver.net:00000</b>. Đã tìm thấy nó? Chọn nó và dán nó trong Minecraft nhiều người chơi của bạn.<br />
 <br />
-Kết nó đến nó và... Tuyệt vời, bạn đang ở trong! Chúc vui vẻ với bạn bè của bạn! Đơn giản thiệt đó.";
+Kết nối đến nó và... Tuyệt vời, bạn đang ở trong! Chúc vui vẻ với bạn bè của bạn! Đơn giản thiệt đó.";
