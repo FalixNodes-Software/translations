@@ -5,7 +5,7 @@ $lang['title']['mainpage_title'] = "Xem máy chủ";
 $lang['title']['mainpage_description'] = "Xem và quản lý máy chủ.";
 
 $lang['title']['createserver_title'] = "Tạo máy chủ";
-$lang['title']['createserver_description'] = "Tạo máy chủ Minecraft của bạn.";
+$lang['title']['createserver_description'] = "Tạo máy chủ của bạn.";
 
 $lang['title']['changeram_title'] = "Thay đổi RAM";
 $lang['title']['changeram_description'] = "Thay đổi tài nguyên máy chủ.";
@@ -14,7 +14,7 @@ $lang['title']['alwaysonline_title'] = "Luôn trực tuyến";
 $lang['title']['alwaysonline_description'] = "Đang xây dựng.";
 
 $lang['title']['coins_title'] = "Xu";
-$lang['title']['coins_description'] = "Lấy xu và nâng cấp hiệu năng máy chủ Minecraft của bạn.";
+$lang['title']['coins_description'] = "Nhận xu và nâng cấp hiệu năng máy chủ Minecraft của bạn.";
 
 // navigation bar
 $lang['nav']['dashboard'] = "Bảng điều khiển";
@@ -59,15 +59,15 @@ $lang['widgets']['changecpu_changebutton'] = "Thay đổi CPU";
 $lang['widgets']['changecpu_closebutton'] = "Đóng";
 
 $lang['widgets']['changedisk_title'] = "Thay đổi Disk";
-$lang['widgets']['changedisk_newcpu'] = "Không gian đĩa mới của máy chủ (MB)";
+$lang['widgets']['changedisk_newcpu'] = "Dung lượng đĩa mới của máy chủ (MB)";
 $lang['widgets']['changedisk_changebutton'] = "Thay đổi Disk";
 $lang['widgets']['changedisk_closebutton'] = "Đóng";
 
 // quick links
 $lang['links']['quicklinks'] = "Liên kết nhanh";
 $lang['links']['quicklinks_description'] = "Điều hướng qua bảng điều khiển với liên kết nhanh";
-$lang['links']['createserver'] = "Tạo máy chủ của bạn";
-$lang['links']['createserver_description'] = "Tạo máy chủ Minecraft của bạn";
+$lang['links']['createserver'] = "Tạo máy chủ";
+$lang['links']['createserver_description'] = "Tạo máy chủ của bạn";
 $lang['links']['coinshop'] = "Cửa hàng FalixCoins";
 $lang['links']['coinshop_description'] = "Mua tăng cường cho máy chủ Minecraft của bạn";
 $lang['links']['coins'] = "Kiếm FalixCoins miễn phí";
@@ -106,7 +106,7 @@ $lang['auth']['registerform_tosaccept'] = "Chấp nhận <a href='https://falixn
 $lang['auth']['registerform_marketingconsent'] = "Tick this box if you want to receive marketing emails with our latest offers.";
 
 // index.php / main page
-$lang['manage_servers'] = "Quản lý máy chủ bạn với bảng điều khiển dễ sử dụng của chúng tôi.";
+$lang['manage_servers'] = "Quản lý máy chủ của bạn với bảng điều khiển dễ sử dụng của chúng tôi.";
 
 // servers table
 $lang['servers'] = "Máy chủ của bạn";
@@ -158,7 +158,7 @@ $lang['coins']['joinreward'] = "lên đến 50 FalixCoins mỗi khi vào máy ch
 
 // affiliate page
 $lang['affiliate']['title'] = "Mời bạn bè của bạn và nhận 1,000 FalixCoins";
-$lang['affiliate']['description'] = "Mời bạn bè của bạn và nhận lấy phần thưởng trong vài giây.";
+$lang['affiliate']['description'] = "Mời bạn bè của bạn và nhận phần thưởng trong vài giây.";
 $lang['affiliate']['seconddescription'] = "Mời bạn bè của bạn qua đường liên kết website sao chép từ dưới và gửi nó cho bạn của bạn.";
 $lang['affiliate']['footer'] = "Khi bạn mời bạn bè, bạn có thể <a href='https://client.falixnodes.net/affiliate/status'>xem trạng thái của giới thiệu của bạn</a> hoặc liên hệ với chúng tôi tại máy chủ Discord nếu bạn có câu hỏi.";
 
