@@ -71,7 +71,7 @@ $lang['links']['createserver_description'] = "Tạo máy chủ của bạn";
 $lang['links']['coinshop'] = "Cửa hàng FalixCoins";
 $lang['links']['coinshop_description'] = "Mua tăng cường cho máy chủ Minecraft của bạn";
 $lang['links']['coins'] = "Kiếm FalixCoins miễn phí";
-$lang['links']['coins_description'] = "Tăng cường máy chủ bới tiền ảo của chúng tôi";
+$lang['links']['coins_description'] = "Tăng cường máy chủ của bạn với tiền ảo của chúng tôi";
 $lang['links']['discordsupport'] = "Hỗ trợ Discord";
 $lang['links']['discordsupport_description'] = "Hỏi câu hỏi của bạn trong cộng đồng của chúng tôi";
 
@@ -249,21 +249,21 @@ Sau khi điền vào mẫu, bấm 'Tạo' và... thành công rồi! Máy chủ 
 
 $lang['tutorials']['createserver_steptwo_title'] = "Quản lý máy chủ của bạn";
 $lang['tutorials']['createserver_steptwo'] = "Bạn đã tạo máy chủ đầu tiên, tiếp theo là gì?<br />
-Khá đơn giản, bạn đăng nhập vào bản điều khiển trò chơi với tài khoản qua khi nhấp chuột vào nút 'Đăng nhập bảng điều khiển trò chơi' ở góc bên phải hoặc tại bảng của máy chủ.<br />
+Khá đơn giản, bạn đăng nhập vào bảng điều khiển trò chơi với tài khoản qua khi nhấp chuột vào nút 'Đăng nhập vào bảng điều khiển trò chơi' ở góc bên phải hoặc tại bảng máy chủ.<br />
 <br />
-Sau đó, Bạn nhìn thấy giao diện bảng điều khiển trò chơi. Tìm máy chủ của bạn tại giao diện và nhấn vào đó. Sau đó, hãy chuyển sang tab Phiên bản ở trong thanh điều hướng.<br />
+Sau đó, bạn sẽ nhìn thấy giao diện bảng điều khiển trò chơi. Tìm máy chủ của bạn tại giao diện và nhấn vào đó. Sau đó, hãy chuyển sang tab Phiên bản trên thanh điều hướng.<br />
 <br />
-Nó sẽ yêu cầu bạn chọn phần mền và phiên bản cho máy chủ của bạn. Chúng tôi khuyên bạn nên bắt đầu với Paper vì đây là phần mền có tất cả các phiên bản. Sau đó vui lòng tìm phiên bản của bạn và chọn nó.<br />
+Nó sẽ yêu cầu bạn chọn phần mền và phiên bản cho máy chủ của bạn. Chúng tôi khuyên bạn nên bắt đầu với Paper vì đây là phần mền có tất cả các phiên bản. Sau đó hãy tìm phiên bản của ban và chọn nó.<br />
 <br />
-Khi bạn làm xong điều đó, máy chủ bạn đã được cài đặt. Ngay bây giờ hãy đến bảng điều khiển của server và bắt đầu máy chủ bằng cách nhấn nút 'Bắt đầu'.<br />
+Khi bạn làm xong điều đó, máy chủ bạn đã được cài đặt. Ngay bây giờ hãy đến bảng điều khiển máy chủ và bắt đầu máy chủ bằng cách nhấn nút 'Bắt đầu'.<br />
 <br />
 Tuyệt, máy chủ bạn đang chạy! Đi đến hướng dẫn tiếp theo để tìm ra cách kết nối đến nó.";
 
 $lang['tutorials']['createserver_stepthree_title'] = "Kết nối đến máy chủ của bạn";
 $lang['tutorials']['createserver_stepthree'] = "Máy chủ bạn đang chạy, làm gì tiếp theo?<br />
-Đây là thời gian để chơi nó! Nhưng làm sao?<br />
+Đây là lúc để chơi nó! Nhưng làm sao?<br />
 <br />
 Mở Minecraft của bạn lên cùng với phiên bản đã chọn trong bảng điều khiển trò chơi. Đã xong? Được rồi.<br />
-Bạn nên tìm hostname và port của máy chủ bạn, nó có thể tìm thấy ở dưới của trang bảng điều khiển. Nó bắt đầu với <b>game#.falixserver.net:00000</b>. Đã tìm thấy nó? Chọn nó và dán nó trong Minecraft nhiều người chơi của bạn.<br />
+Bạn nên tìm hostname và port của máy chủ bạn, nó có thể được tìm thấy ở dưới của trang bảng điều khiển. Nó bắt đầu với <b>game#.falixserver.net:00000</b>. Đã tìm thấy nó? Chọn vào nó và dán nó vào Minecraft ở menu Multiplayer của bạn.<br />
 <br />
 Kết nối đến nó và... Tuyệt vời, bạn đang ở trong! Chúc vui vẻ với bạn bè của bạn! Đơn giản thiệt đó.";
