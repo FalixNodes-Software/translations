@@ -161,7 +161,7 @@ $lang['affiliate']['title'] = "Invitez un ami et obtenez 1 000 FalixCoins";
 $lang['affiliate']['description'] = "Invitez vos amis et obtenez une récompense dans la seconde.";
 $lang['affiliate']['seconddescription'] = "Invitez vos amis en copiant le lien ci-dessous et en leur envoyant directement.";
 $lang['affiliate']['footer'] = "Une fois que vous avez invité des amis, vous pouvez <a href='https://client.falixnodes.net/affiliate/status'>voir le statut dans vos invitations</a> ou nous contact sur notre serveur Discord pour toute autre question.";
-²
+
 // activity page
 $lang['activity']['title'] = "Activité";
 $lang['activity']['id'] = "ID";
