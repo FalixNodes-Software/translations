@@ -14,7 +14,7 @@ $lang['title']['alwaysonline_title'] = "Toujours en-ligne";
 $lang['title']['alwaysonline_description'] = "Page en construction.";
 
 $lang['title']['coins_title'] = "Pièces";
-$lang['title']['coins_description'] = "Gagnez des pièces et échangez les contre des boosts pour vos serveurs Minecraft.";
+$lang['title']['coins_description'] = "Gagnez des pièces et échangez-les contre des boosts pour vos serveurs Minecraft.";
 
 // navigation bar
 $lang['nav']['dashboard'] = "Tableau de bord";
@@ -40,7 +40,7 @@ $lang['error']['create_new_server_description'] = "Vous pouvez créer votre prem
 $lang['error']['create_new_server_button'] = "Créer un serveur";
 
 $lang['error']['construction'] = "Cette page est en construction !";
-$lang['error']['construction_description'] = "Nous travaillons actuellement dessus, en attendant, préparez vous et patientez.";
+$lang['error']['construction_description'] = "Nous travaillons actuellement dessus, en attendant, préparez-vous et patientez.";
 
 // notices
 $lang['notices']['premiumdiscount'] = "Obtenez <b>10% de réduction</b> pour <b>6 mois</b> avec le code de réduction <b>UPGRADE10</b> lorsque vous mettez votre souscription à jour pour les plans Power et Ultimate.";
@@ -65,7 +65,7 @@ $lang['widgets']['changedisk_closebutton'] = "Fermer";
 
 // quick links
 $lang['links']['quicklinks'] = "Liens rapides";
-$lang['links']['quicklinks_description'] = "Naviguez sur le tableau de bord avec nos lien rapides";
+$lang['links']['quicklinks_description'] = "Naviguez sur le tableau de bord avec nos liens rapides";
 $lang['links']['createserver'] = "Créer votre propre serveur";
 $lang['links']['createserver_description'] = "Créer votre propre serveur Minecraft";
 $lang['links']['coinshop'] = "Boutique de FalixNodes";
@@ -103,10 +103,10 @@ $lang['auth']['discord'] = "Discord";
 $lang['auth']['registerform_title'] = "S'inscrire";
 $lang['auth']['registerform_button'] = "S'inscrire";
 $lang['auth']['registerform_tosaccept'] = "J'accepte les <a href='https://falixnodes.net/user-agreement'>conditions d'utilisation </a>et <a href='https://falixnodes.net/privacy-policy'>la politique de confidentialité</a>";
-$lang['auth']['registerform_marketingconsent'] = "Cochez cette case si vous souhaitez recevoir des email marketing contenant nos dernières offres.";
+$lang['auth']['registerform_marketingconsent'] = "Cochez cette case si vous souhaitez recevoir des emails marketing contenant nos dernières offres.";
 
 // index.php / main page
-$lang['manage_servers'] = "Controllez vos serveurs avec notre panel de jeu conçu pour un usage simple.";
+$lang['manage_servers'] = "Contrôlez vos serveurs avec notre panel de jeu conçu pour un usage simple.";
 
 // servers table
 $lang['servers'] = "Vos serveurs";
@@ -154,14 +154,14 @@ $lang['coins']['claim'] = "Récupérer";
 $lang['coins']['invitefriends'] = "Invitez vos amis";
 $lang['coins']['joinforrewards'] = "Rejoindre pour une récompense";
 $lang['coins']['invitereward'] = "1 000 FalixCoins par amis invités";
-$lang['coins']['joinreward'] = "à partir de 50 FalixCoins par serveurs rejoint";
+$lang['coins']['joinreward'] = "à partir de 50 FalixCoins par serveurs rejoints";
 
 // affiliate page
 $lang['affiliate']['title'] = "Invitez un ami et obtenez 1 000 FalixCoins";
 $lang['affiliate']['description'] = "Invitez vos amis et obtenez une récompense dans la seconde.";
 $lang['affiliate']['seconddescription'] = "Invitez vos amis en copiant le lien ci-dessous et en leur envoyant directement.";
 $lang['affiliate']['footer'] = "Une fois que vous avez invité des amis, vous pouvez <a href='https://client.falixnodes.net/affiliate/status'>voir le statut dans vos invitations</a> ou nous contact sur notre serveur Discord pour toute autre question.";
-²
+
 // activity page
 $lang['activity']['title'] = "Activité";
 $lang['activity']['id'] = "ID";
@@ -189,10 +189,10 @@ $lang['profile']['emailpreference_title'] = "Préférences de messagerie";
 $lang['profile']['emailpreference'] = "Changez vos préférences de messagerie";
 
 $lang['profile']['changepassword_title'] = "Changer de mot de passe";
-$lang['profile']['changepassword_notice'] = "Attention ! Si vous tentez de changer votre mot de passe d'accès au panel de jeu, déscendez pour remplir l'autre formulaire de changement de mot de passe.";
+$lang['profile']['changepassword_notice'] = "Attention ! Si vous tentez de changer votre mot de passe d'accès au panel de jeu, descendez pour remplir l'autre formulaire de changement de mot de passe.";
 $lang['profile']['oldpassword'] = "Ancien mot de passe";
 $lang['profile']['newpassword'] = "Nouveau mot de passe";
-$lang['profile']['confirmpassword'] = "Re-tappez le mot de passe";
+$lang['profile']['confirmpassword'] = "Re-tapez le mot de passe";
 $lang['profile']['updatepassword'] = "Mettre à jour votre mot de passe";
 
 $lang['profile']['discord'] = "Discord";
@@ -210,7 +210,7 @@ $lang['profile']['deleteaccount_description'] = "Lorsque vous supprimez un compt
 $lang['profile']['deleteaccount_button'] = "Supprimer mon compte";
 
 // falixcoins store
-$lang['store']['plan_expire_on'] = "Votre souscription se renouvellera automatique le";
+$lang['store']['plan_expire_on'] = "Votre souscription se renouvellera automatiquement le";
 $lang['store']['month'] = "mois";
 $lang['store']['cancelplan'] = "Annuler la souscription";
 $lang['store']['purchase'] = "Acheter maintenant";
@@ -253,7 +253,7 @@ C'est très simple, vous vous connectez au panel de jeu en cliquant sur le bouto
 <br />
 Après ça, vous allez voir l'interface du panel de jeu. Trouvez votre serveur dans l'interface, et cliquez dessus. Après ça, naviguez dans l'onglet 'Versions' qui peut être trouvé dans la barre de navigation.<br />
 <br />
-Il vous sera demandé de sélectionner le logiciel et la version la plus approprié pour votre serveur. Nous vous recommandons de démarrer avec Paper depuis que le logiciel est le plus optimisé et et disponible pour toutes les versions. Trouvez la version qui vous convient le mieux puis cliquez dessus.<br />
+Il vous sera demandé de sélectionner le logiciel et la version la plus appropriée pour votre serveur. Nous vous recommandons de démarrer avec Paper depuis que le logiciel est le plus optimisé et disponible pour toutes les versions. Trouvez la version qui vous convient le mieux puis cliquez dessus.<br />
 <br />
 Une fois que vous avez fini, votre serveur aura été installé. Naviguez désormais dans l'onglet 'Console' et démarrez votre serveur en cliquant sur le bouton 'Démarrer'.<br />
 <br />
@@ -263,7 +263,7 @@ $lang['tutorials']['createserver_stepthree_title'] = "Se connecter sur votre ser
 $lang['tutorials']['createserver_stepthree'] = "Votre serveur fonctionne, et après ?<br />
 C'est le moment de jouer dessus ! Mais comment ?<br />
 <br />
-Démarrez votre client Minecraft avec la version que vous avez sélectionnez dans le panel de jeu. C'est bon ? Parfait.<br />
-Vous devriez normalement trouver un nom d'hôte unique à votre serveur ainsi que son port, vous pouvez trouvez ces informations en bas de la page de la Console. Ce nom commence souvent par <b>game#.falixserver.net:00000</b>. Trouvé ? Sélectionnez le texte et copiez le dans la section multijoueur de Minecraft.<br />
+Démarrez votre client Minecraft avec la version que vous avez sélectionné dans le panel de jeu. C'est bon ? Parfait.<br />
+Vous devriez normalement trouver un nom d'hôte unique à votre serveur ainsi que son port, vous pouvez trouver ces informations en bas de la page de la Console. Ce nom commence souvent par <b>game#.falixserver.net:00000</b>. Trouvé ? Sélectionnez le texte et copiez-le dans la section multijoueur de Minecraft.<br />
 <br />
 Connectez-vous dessus et... Génial, vous êtes dedans ! Amusez-vous bien avec vos amis ! C'est si simple.";
