@@ -8,13 +8,13 @@ $lang['title']['createserver_title'] = "Tạo máy chủ";
 $lang['title']['createserver_description'] = "Tạo máy chủ Minecraft của bạn.";
 
 $lang['title']['changeram_title'] = "Thay đổi RAM";
-$lang['title']['changeram_description'] = "Thay đổi tài nguyên máy chủ.";
+$lang['title']['changeram_description'] = "Thay đổi dung lượng RAM của máy chủ.";
 
 $lang['title']['alwaysonline_title'] = "Luôn trực tuyến";
 $lang['title']['alwaysonline_description'] = "Đang xây dựng.";
 
 $lang['title']['coins_title'] = "Xu";
-$lang['title']['coins_description'] = "Lấy xu và nâng cấp hiệu năng máy chủ Minecraft của bạn.";
+$lang['title']['coins_description'] = "Nhận xu và nâng cấp hiệu năng máy chủ Minecraft của bạn.";
 
 // navigation bar
 $lang['nav']['dashboard'] = "Bảng điều khiển";
@@ -44,13 +44,13 @@ $lang['error']['construction_description'] = "Chúng tôi đang làm việc này
 
 // notices
 $lang['notices']['premiumdiscount'] = "Nhận <b>10% giảm giá</b> cho <b>6 tháng</b> với code <b>UPGRADE10</b> khi bạn nâng cấp gói của bạn thành Power và Ultimate.";
-$lang['notices']['premiumad'] = "Lưu trữ máy chủ bạn trên phần cứng hàng đầu và thêm chức năng 24/7 trực tuyến và xóa quảng cáo trên website cùng với Falix Premium Plans vì nó rẻ hơn giá thị trường. <a href='https://falixnodes.net/minecraft-server-hosting'>Nhấn vào</a>!";
+$lang['notices']['premiumad'] = "Lưu trữ máy chủ bạn trên phần cứng hàng đầu thêm chức năng 24/7 trực tuyến và xóa quảng cáo trên website cùng với Falix Premium Plans với giá rẻ hơn giá thị trường. <a href='https://falixnodes.net/minecraft-server-hosting'>Nhấn vào</a>!";
 
 // widgets
 $lang['widgets']['panel_title'] = "Thông tin bảng điều khiển của bạn";
 $lang['widgets']['panel_ftp'] = "Mật khẩu FTP của bạn";
 $lang['widgets']['panel_resetpass'] = "Sai mật khẩu? Bạn có thể thay đổi mật khẩu tại <a href='/profile/settings'>hồ sơ của bạn</a>.";
-$lang['widgets']['panel_loginbutton'] = "Đăng nhập vào bản điều khiển";
+$lang['widgets']['panel_loginbutton'] = "Đăng nhập vào bảng điều khiển";
 $lang['widgets']['panel_closebutton'] = "Đóng";
 
 $lang['widgets']['changecpu_title'] = "Thay đổi CPU";
@@ -59,26 +59,26 @@ $lang['widgets']['changecpu_changebutton'] = "Thay đổi CPU";
 $lang['widgets']['changecpu_closebutton'] = "Đóng";
 
 $lang['widgets']['changedisk_title'] = "Thay đổi Disk";
-$lang['widgets']['changedisk_newcpu'] = "Không gian đĩa mới của máy chủ (MB)";
+$lang['widgets']['changedisk_newcpu'] = "Dung lượng đĩa mới của máy chủ (MB)";
 $lang['widgets']['changedisk_changebutton'] = "Thay đổi Disk";
 $lang['widgets']['changedisk_closebutton'] = "Đóng";
 
 // quick links
 $lang['links']['quicklinks'] = "Liên kết nhanh";
-$lang['links']['quicklinks_description'] = "Điều hướng qua bảng điều khiển với liên kết nhanh";
+$lang['links']['quicklinks_description'] = "Điều hướng nhanh hơn với liên kết nhanh";
 $lang['links']['createserver'] = "Tạo máy chủ của bạn";
 $lang['links']['createserver_description'] = "Tạo máy chủ Minecraft của bạn";
 $lang['links']['coinshop'] = "Cửa hàng FalixCoins";
 $lang['links']['coinshop_description'] = "Mua tăng cường cho máy chủ Minecraft của bạn";
-$lang['links']['coins'] = "Kiếm FalixCoins miễn phí";
-$lang['links']['coins_description'] = "Tăng cường máy chủ bới tiền ảo của chúng tôi";
+$lang['links']['coins'] = "Nhận FalixCoins miễn phí";
+$lang['links']['coins_description'] = "Tăng cường máy chủ với tiền ảo của chúng tôi";
 $lang['links']['discordsupport'] = "Hỗ trợ Discord";
 $lang['links']['discordsupport_description'] = "Hỏi câu hỏi của bạn trong cộng đồng của chúng tôi";
 
 // resources widget
 $lang['resources']['serversbalance'] = "Số lượng máy chủ";
 $lang['resources']['rambalance'] = "Dung lượng RAM";
-$lang['resources']['cpubalance'] = "Dung lượng CPU";
+$lang['resources']['cpubalance'] = "CPU cores";
 $lang['resources']['diskbalance'] = "Dung lượng Disk";
 $lang['resources']['databasesbalance'] = "Số lượng Database";
 $lang['resources']['portsbalance'] = "Số lượng Port";
@@ -103,7 +103,7 @@ $lang['auth']['discord'] = "Discord";
 $lang['auth']['registerform_title'] = "Đăng ký";
 $lang['auth']['registerform_button'] = "Đăng ký";
 $lang['auth']['registerform_tosaccept'] = "Chấp nhận <a href='https://falixnodes.net/user-agreement'>điều khoản người dùng </a>và <a href='https://falixnodes.net/privacy-policy'>chính sách bảo mật</a>";
-$lang['auth']['registerform_marketingconsent'] = "Tick this box if you want to receive marketing emails with our latest offers.";
+$lang['auth']['registerform_marketingconsent'] = "Tick vào ô này nếu bạn muốn nhận những email tiếp thị với những offer mới nhất của chúng tôi.";
 
 // index.php / main page
 $lang['manage_servers'] = "Quản lý máy chủ bạn với bảng điều khiển dễ sử dụng của chúng tôi.";
@@ -135,14 +135,14 @@ $lang['create']['allgames'] = "Tất cả trò chơi hỗ trợ";
 $lang['create']['selectgame'] = "Chọn trò chơi";
 $lang['create']['minecrafteula'] = "Chấp nhận <a href='https://account.mojang.com/documents/minecraft_eula/'>thỏa thuận cấp phép người dùng cuối (EULA) của Minecraft </a>";
 $lang['create']['createbutton'] = "Tạo";
-$lang['create']['adblock'] = "((( Nếu nút này không hoạt động trong 3-5 giây chờ đợi, vui lòng tắt trình chặn quảng cáo của bạn. )))";
+$lang['create']['adblock'] = "((( Nếu nút này không hoạt động sau 3-5 giây chờ đợi, vui lòng tắt trình chặn quảng cáo của bạn. )))";
 
 // change ram page
 $lang['changeram']['title'] = "Thay đổi dung lượng RAM";
 $lang['changeram']['servername'] = "Tên máy chủ";
 $lang['changeram']['currentram'] = "Dung lượng RAM hiện tại";
 $lang['changeram']['newram'] = "Dung lượng RAM mới";
-$lang['changeram']['changerambutton'] = "Thay đổi RAM";
+$lang['changeram']['changerambutton'] = "Thay đổi dung lượng RAM";
 
 // coins page
 $lang['coins']['earnfalixcoins'] = "Kiếm FalixCoins";
