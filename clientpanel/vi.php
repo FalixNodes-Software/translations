@@ -44,7 +44,7 @@ $lang['error']['construction_description'] = "Chúng tôi đang làm việc này
 
 // notices
 $lang['notices']['premiumdiscount'] = "Nhận <b>10% giảm giá</b> cho <b>6 tháng</b> với code <b>UPGRADE10</b> khi bạn nâng cấp gói của bạn thành Power và Ultimate.";
-$lang['notices']['premiumad'] = "Lưu trữ máy chủ bạn trên phần cứng hàng đầu thêm chức năng 24/7 trực tuyến và xóa quảng cáo trên website cùng với Falix Premium Plans với giá rẻ hơn giá thị trường. <a href='https://falixnodes.net/minecraft-server-hosting'>Nhấn vào</a>!";
+$lang['notices']['premiumad'] = "Lưu trữ máy chủ bạn trên phần cứng hàng đầu thêm chức năng 24/7 trực tuyến và xóa quảng cáo trên website cùng với Falix Premium Plans với giá rẻ hơn giá thị trường. <a href='https://falixnodes.net/minecraft-server-hosting'>Nhấn vào đây</a>!";
 
 // widgets
 $lang['widgets']['panel_title'] = "Thông tin bảng điều khiển của bạn";
@@ -199,11 +199,11 @@ $lang['profile']['discord'] = "Discord";
 $lang['profile']['authorised'] = "Cho phép bằng";
 $lang['profile']['linkdiscord'] = "Liên kết tài khoản Discord";
 $lang['profile']['unlinkdiscord'] = "Huỷ liên kết tài khoản Discord";
-$lang['profle']['notlinked'] = "Bạn không có tài khoản Discord đã liên kết đến tài khoản, để liên kết với Discord, hãy ủy quyền tài khoản Discord";
+$lang['profle']['notlinked'] = "Bạn không có tài khoản Discord được liên kết đến tài khoản này, để liên kết với Discord, hãy ủy quyền tài khoản Discord";
 
 $lang['profile']['dangerzone'] = "Vùng nguy hiểm";
 $lang['profile']['changegamepanelpassword_title'] = "Thay đổi mật khẩu bảng điều khiển trò chơi";
-$lang['profile']['changegamepanelpassword_description'] = "Một khi bạn đã thay đổi mật khẩu bảng điều khiển trò chơi, mật khẩu cũ sẽ không hoạt động nữa.";
+$lang['profile']['changegamepanelpassword_description'] = "Một khi bạn đã thay đổi mật khẩu bảng điều khiển trò chơi, mật khẩu cũ sẽ không dùng được nữa.";
 $lang['profile']['changegamepanelpassword_button'] = "Thay đổi mật khẩu";
 $lang['profile']['deleteaccount_title'] = "Xóa tài khoản";
 $lang['profile']['deleteaccount_description'] = "Một khi bạn xóa tài khoản, nó sẽ không thể được khôi phục lại. Xin hãy chắc chắn với quyết định này.";
