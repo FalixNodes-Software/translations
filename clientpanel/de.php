@@ -7,7 +7,7 @@ $lang['title']['mainpage_description'] = "Verwalten sie ihre Minecraft Server.";
 $lang['title']['createserver_title'] = "Server erstellen";
 $lang['title']['createserver_description'] = "Erstelle deinen eigenen Minecraft Server.";
 
-$lang['title']['changeram_title'] = "Arbeitsspeicher";
+$lang['title']['changeram_title'] = "Arbeitsspeicher Konfigurieren";
 $lang['title']['changeram_description'] = "Verwalten sie ihre Server-Resourcen.";
 
 $lang['title']['alwaysonline_title'] = "Immer Online";
@@ -76,12 +76,12 @@ $lang['links']['discordsupport'] = "Discord Support";
 $lang['links']['discordsupport_description'] = "Stellen Sie Ihre Fragen an unsere Community!";
 
 // resources widget
-$lang['resources']['serversbalance'] = "Servers Anzahl";
-$lang['resources']['rambalance'] = "Arbeitsspeicher Anzahl";
-$lang['resources']['cpubalance'] = "CPU Anzahl";
-$lang['resources']['diskbalance'] = "Speicherplatz Anzahl";
-$lang['resources']['databasesbalance'] = "Datenbanken Anzahl";
-$lang['resources']['portsbalance'] = "Port Anzahl";
+$lang['resources']['serversbalance'] = "Server";
+$lang['resources']['rambalance'] = "Arbeitsspeicher";
+$lang['resources']['cpubalance'] = "CPU";
+$lang['resources']['diskbalance'] = "Speicherplatz";
+$lang['resources']['databasesbalance'] = "Datenbanken";
+$lang['resources']['portsbalance'] = "Ports";
 
 // login page
 $lang['auth']['login_title'] = "FalixNodes";
@@ -132,110 +132,110 @@ $lang['create']['servername'] = "Server Name";
 $lang['create']['serverram'] = "Arbeitsspeicher";
 $lang['create']['servergame'] = "Spiel";
 $lang['create']['allgames'] = "Alle unterstützten Spiele";
-$lang['create']['selectgame'] = "Spiel";
-$lang['create']['minecrafteula'] = "I accept the <a href='https://account.mojang.com/documents/minecraft_eula/'>Minecraft End User License Agreement (EULA)</a>";
-$lang['create']['createbutton'] = "Create";
-$lang['create']['adblock'] = "((( If button do not work after 3-5 seconds of waiting, please disable your adblock. )))";
+$lang['create']['selectgame'] = "Spiel auswählen";
+$lang['create']['minecrafteula'] = "Ich akzeptiere die <a href='https://account.mojang.com/documents/minecraft_eula/'>Minecraft End User License Agreement (EULA)</a>";
+$lang['create']['createbutton'] = "Erstellen";
+$lang['create']['adblock'] = "((( Wenn der Knopf nach 3-5 Sekunden nicht funktioniert, deaktivieren Sie bitte Ihren Adblocker. )))";
 
 // change ram page
-$lang['changeram']['title'] = "Change RAM";
+$lang['changeram']['title'] = "Arbeitsspeicher Konfigurieren";
 $lang['changeram']['servername'] = "Server Name";
-$lang['changeram']['currentram'] = "Current RAM";
-$lang['changeram']['newram'] = "New RAM";
-$lang['changeram']['changerambutton'] = "Change RAM";
+$lang['changeram']['currentram'] = "Derzeitiger Arbeitsspeicher";
+$lang['changeram']['newram'] = "Neuer Arbeitsspeicher";
+$lang['changeram']['changerambutton'] = "Arbeitsspeicher Konfigurieren";
 
 // coins page
-$lang['coins']['earnfalixcoins'] = "Earn FalixCoins";
+$lang['coins']['earnfalixcoins'] = "FalixCoins sammeln";
 $lang['coins']['resourcestore'] = "FalixCoins Shop";
-$lang['coins']['task'] = "Task";
-$lang['coins']['reward'] = "Reward";
-$lang['coins']['earn'] = "Earn";
+$lang['coins']['task'] = "Aufgabe";
+$lang['coins']['reward'] = "Belohnung";
+$lang['coins']['earn'] = "Einsammeln";
 $lang['coins']['claim'] = "Claim";
-$lang['coins']['invitefriends'] = "Invite your friends";
-$lang['coins']['joinforrewards'] = "Join for rewards";
-$lang['coins']['invitereward'] = "1,000 FalixCoins per invited friend";
-$lang['coins']['joinreward'] = "up to 50 FalixCoins per joined server";
+$lang['coins']['invitefriends'] = "Laden Sie Ihre Freunde ein";
+$lang['coins']['joinforrewards'] = "Beitreten für Belohnungen";
+$lang['coins']['invitereward'] = "1.000 FalixCoins pro eingeladenem Freund";
+$lang['coins']['joinreward'] = "bis zu 50 FalixCoins pro Server";
 
 // affiliate page
-$lang['affiliate']['title'] = "Invite a friend and get 1,000 FalixCoins";
-$lang['affiliate']['description'] = "Invite your friends and get your reward in seconds.";
-$lang['affiliate']['seconddescription'] = "Invite your friends by copying website link from below and send it to your friends.";
-$lang['affiliate']['footer'] = "Once you've invited friends, you can <a href='https://client.falixnodes.net/affiliate/status'>view the status of your referrals</a> or contact us at our Discord server if you have any questions.";
+$lang['affiliate']['title'] = "Laden Sie einen Freund ein und erhalten Sie 1,000 FalixCoins";
+$lang['affiliate']['description'] = "Laden Sie Ihre Freunde ein und erhalten Sie Ihre Belohnung in Sekundenschnelle.";
+$lang['affiliate']['seconddescription'] = "Laden Sie Ihre Freunde ein, indem Sie den unten stehenden Link zur Website kopieren und an Ihre Freunde senden.";
+$lang['affiliate']['footer'] = "Sobald Sie Freunde eingeladen haben, können Sie <a href='https://client.falixnodes.net/affiliate/status'>den Status Ihres Affliates einsehen</a> oder kontaktieren Sie uns auf unserem Discord Server, wenn Sie Fragen haben.";
 
 // activity page
-$lang['activity']['title'] = "Activity";
+$lang['activity']['title'] = "Aktivität";
 $lang['activity']['id'] = "ID";
-$lang['activity']['action'] = "ACTION";
-$lang['activity']['description'] = "DESCRIPTION";
+$lang['activity']['action'] = "AKTION";
+$lang['activity']['description'] = "BESCHREIBUNG";
 $lang['activity']['useragent'] = "USER-AGENT";
-$lang['activity']['ip'] = "IP ADDRESS";
-$lang['activity']['date'] = "DATE";
+$lang['activity']['ip'] = "IP ADDRESSE";
+$lang['activity']['date'] = "DATUM";
 
 // profile page
-$lang['profile']['settings_title'] = "Profile Settings";
-$lang['profile']['firstname'] = "First Name";
-$lang['profile']['lastname'] = "Last Name";
-$lang['profile']['email'] = "Email";
-$lang['profile']['theme'] = "Website Theme";
-$lang['profile']['textcolor'] = "Text Color";
+$lang['profile']['settings_title'] = "Profil Einstellungen";
+$lang['profile']['firstname'] = "Vorname";
+$lang['profile']['lastname'] = "Nachname";
+$lang['profile']['email'] = "E-Mail";
+$lang['profile']['theme'] = "Website Thema";
+$lang['profile']['textcolor'] = "Text Farbe";
 
-$lang['profile']['serversettings_title'] = "Server Settings";
-$lang['profile']['externalserverstart'] = "External Server Start";
+$lang['profile']['serversettings_title'] = "Server Einstellungen";
+$lang['profile']['externalserverstart'] = "Externer Server Start";
 $lang['profile']['update'] = "Update";
-$lang['profile']['enable'] = "Enable";
-$lang['profile']['disable'] = "Disable";
+$lang['profile']['enable'] = "Aktivieren";
+$lang['profile']['disable'] = "Deaktivieren";
 
-$lang['profile']['emailpreference_title'] = "Email Preference";
-$lang['profile']['emailpreference'] = "Change your email preference";
+$lang['profile']['emailpreference_title'] = "E-Mail Präferenz";
+$lang['profile']['emailpreference'] = "Ändern Sie Ihre E-Mail Präferenzen";
 
-$lang['profile']['changepassword_title'] = "Change Password";
-$lang['profile']['changepassword_notice'] = "NB! If you are trying to change game panel password, scroll down to the other password prompt.";
-$lang['profile']['oldpassword'] = "Old Password";
-$lang['profile']['newpassword'] = "New Password";
-$lang['profile']['confirmpassword'] = "Confirm Password";
-$lang['profile']['updatepassword'] = "Update Password";
+$lang['profile']['changepassword_title'] = "Passwort ändern";
+$lang['profile']['changepassword_notice'] = "Nicht schlecht Herr Specht! Wenn Sie versuchen, das Passwort für die Server Verwaltung zu ändern, scrollen Sie nach unten zur anderen Kennworteingabe.";
+$lang['profile']['oldpassword'] = "Altes Passwort";
+$lang['profile']['newpassword'] = "Neues Passwort";
+$lang['profile']['confirmpassword'] = "Passwort Bestätigen";
+$lang['profile']['updatepassword'] = "Passwort aktualisieren";
 
 $lang['profile']['discord'] = "Discord";
-$lang['profile']['authorised'] = "Authorised as";
+$lang['profile']['authorised'] = "Autorisiert als";
 $lang['profile']['linkdiscord'] = "Link Discord";
 $lang['profile']['unlinkdiscord'] = "Unlink Discord";
-$lang['profle']['notlinked'] = "You do not have Discord account linked to the account, to link your Discord account, authorise your Discord account";
+$lang['profle']['notlinked'] = "Sie haben kein mit dem Konto verknüpftes Discord Konto. Um Ihr Discord Konto zu verknüpfen, autorisieren Sie Ihr Discord Konto zuerst.";
 
-$lang['profile']['dangerzone'] = "Danger Zone";
-$lang['profile']['changegamepanelpassword_title'] = "Change Game Panel's password";
-$lang['profile']['changegamepanelpassword_description'] = "Once you change the Game Panel password, old password will no longer work.";
-$lang['profile']['changegamepanelpassword_button'] = "Change Password";
-$lang['profile']['deleteaccount_title'] = "Delete this account";
-$lang['profile']['deleteaccount_description'] = "Once you delete a account, there is no going back. Please be certain.";
-$lang['profile']['deleteaccount_button'] = "Delete Account";
+$lang['profile']['dangerzone'] = "Gefahrenzone";
+$lang['profile']['changegamepanelpassword_title'] = "Passwort für die Server Verwaltung ändern";
+$lang['profile']['changegamepanelpassword_description'] = "Sobald Sie das Passwort für die Server Verwaltung geändert haben, funktioniert das alte Passwort nicht mehr.";
+$lang['profile']['changegamepanelpassword_button'] = "Passwort ändern";
+$lang['profile']['deleteaccount_title'] = "Dieses Konto löschen";
+$lang['profile']['deleteaccount_description'] = "Wenn Sie ein Konto löschen, gibt es kein Zurück mehr. Bitte seien Sie sicher, was sie machen!";
+$lang['profile']['deleteaccount_button'] = "Konto löschen";
 
 // falixcoins store
-$lang['store']['plan_expire_on'] = "Your plan will auto renew at";
-$lang['store']['month'] = "mo";
-$lang['store']['cancelplan'] = "Cancel Plan";
-$lang['store']['purchase'] = "Purchase Now";
+$lang['store']['plan_expire_on'] = "Ihr Tarif wird automatisch verlängert am";
+$lang['store']['month'] = "M";
+$lang['store']['cancelplan'] = "Tarif stornieren";
+$lang['store']['purchase'] = "Jetzt kaufen";
 $lang['store']['booster'] = "Booster";
 
-$lang['store']['booster1_servers'] = "Create up to 3 servers";
-$lang['store']['booster1_cpu'] = "Get 120% CPU Power/each server";
-$lang['store']['booster1_ram'] = "Get 6 GB memory";
-$lang['store']['booster1_disk'] = "Get 15 GB disk/each server";
-$lang['store']['booster1_mysql'] = "Get 3 MySQL databases/each server";
-$lang['store']['booster1_ports'] = "Get 2 Extra Ports/each server";
+$lang['store']['booster1_servers'] = "Erstellen Sie bis zu 3 Server";
+$lang['store']['booster1_cpu'] = "120% CPU-Leistung für jeden Server";
+$lang['store']['booster1_ram'] = "Erhalten Sie 6 GB an Arbeitsspeicher";
+$lang['store']['booster1_disk'] = "15 GB Speicherplatz pro Server";
+$lang['store']['booster1_mysql'] = "3 MySQL Datenbanken pro Server";
+$lang['store']['booster1_ports'] = "2 Extra Ports pro Server";
 
-$lang['store']['booster2_servers'] = "Create up to 4 servers";
-$lang['store']['booster2_cpu'] = "Get 130% CPU Power/each server";
-$lang['store']['booster2_ram'] = "Get 7 GB memory";
-$lang['store']['booster2_disk'] = "Get 15 GB disk/each server";
-$lang['store']['booster2_mysql'] = "Get 3 MySQL databases/each server";
-$lang['store']['booster2_ports'] = "Get 2 Extra Ports/each server";
+$lang['store']['booster2_servers'] = "Erstellen Sie bis zu 4 Server";
+$lang['store']['booster2_cpu'] = "130% CPU-Leistung für jeden Server";
+$lang['store']['booster2_ram'] = "Erhalten Sie 7 GB an Arbeitsspeicher";
+$lang['store']['booster2_disk'] = "15 GB Speicherplatz pro Server";
+$lang['store']['booster2_mysql'] = "3 MySQL Datenbanken pro Server";
+$lang['store']['booster2_ports'] = "2 Extra Ports pro Server";
 
-$lang['store']['booster3_servers'] = "Create up to 5 servers";
-$lang['store']['booster3_cpu'] = "Get 140% CPU Power/each server";
-$lang['store']['booster3_ram'] = "Get 8 GB memory";
-$lang['store']['booster3_disk'] = "Get 15 GB disk/each server";
-$lang['store']['booster3_mysql'] = "Get 3 MySQL databases/each server";
-$lang['store']['booster3_ports'] = "Get 2 Extra Ports/each server";
+$lang['store']['booster2_servers'] = "Erstellen Sie bis zu 5 Server";
+$lang['store']['booster2_cpu'] = "140% CPU-Leistung für jeden Server";
+$lang['store']['booster2_ram'] = "Erhalten Sie 8 GB an Arbeitsspeicher";
+$lang['store']['booster2_disk'] = "15 GB Speicherplatz pro Server";
+$lang['store']['booster2_mysql'] = "3 MySQL Datenbanken pro Server";
+$lang['store']['booster2_ports'] = "2 Extra Ports pro Server";
 
 // tutorials
 $lang['tutorials']['createserver_stepone_title'] = "Create your server";
