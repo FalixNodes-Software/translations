@@ -7,7 +7,7 @@ $lang['title']['mainpage_description'] = "Verwalten sie ihre Minecraft Server.";
 $lang['title']['createserver_title'] = "Server erstellen";
 $lang['title']['createserver_description'] = "Erstelle deinen eigenen Minecraft Server.";
 
-$lang['title']['changeram_title'] = "Arbeitsspeicher Konfigurieren";
+$lang['title']['changeram_title'] = "Arbeitsspeicher Verwalten";
 $lang['title']['changeram_description'] = "Verwalten sie ihre Server-Resourcen.";
 
 $lang['title']['alwaysonline_title'] = "Immer Online";
@@ -22,7 +22,7 @@ $lang['nav']['coins'] = "Coins";
 $lang['nav']['mainpage'] = "Hauptseite";
 $lang['nav']['servers'] = "Server";
 $lang['nav']['createserver'] = "Server erstellen";
-$lang['nav']['changeram'] = "Arbeitsspeicher";
+$lang['nav']['changeram'] = "Arbeitsspeicher Verwalten";
 $lang['nav']['alwaysonline'] = "Immer Online";
 $lang['nav']['soon'] = "Bald";
 $lang['nav']['account'] = "Account";
@@ -122,7 +122,7 @@ $lang['server']['port'] = "PORTS";
 
 $lang['server']['gotoserver'] = "Zum Server";
 $lang['server']['changecpu'] = "CPU ändern";
-$lang['server']['changeram'] = "Arbeitsspeicher ändern";
+$lang['server']['changeram'] = "Arbeitsspeicher Verwalten";
 $lang['server']['changedisk'] = "Speicherplatz";
 $lang['server']['deleteserver'] = "Server Löschen";
 
@@ -138,7 +138,7 @@ $lang['create']['createbutton'] = "Erstellen";
 $lang['create']['adblock'] = "((( Wenn der Knopf nach 3-5 Sekunden nicht funktioniert, deaktivieren Sie bitte Ihren Adblocker. )))";
 
 // change ram page
-$lang['changeram']['title'] = "Arbeitsspeicher Konfigurieren";
+$lang['changeram']['title'] = "Arbeitsspeicher Verwalten";
 $lang['changeram']['servername'] = "Server Name";
 $lang['changeram']['currentram'] = "Derzeitiger Arbeitsspeicher";
 $lang['changeram']['newram'] = "Neuer Arbeitsspeicher";
