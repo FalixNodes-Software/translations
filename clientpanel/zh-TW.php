@@ -58,7 +58,7 @@ $lang['widgets']['changecpu_newcpu'] = "新的伺服器CPU核心";
 $lang['widgets']['changecpu_changebutton'] = "更改CPU";
 $lang['widgets']['changecpu_closebutton'] = "關閉";
 
-$lang['widgets']['changedisk_title"] = "更改磁碟";
+$lang['widgets']['changedisk_title'] = "更改磁碟";
 $lang['widgets']['changedisk_newcpu'] = "新的伺服器磁碟空間（以MB為單位）";
 $lang['widgets']['changedisk_changebutton'] = "更改磁碟";
 $lang['widgets']['changedisk_closebutton'] = "關閉";
