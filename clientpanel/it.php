@@ -1,7 +1,23 @@
 <?php
 
+// page titles
+$lang['title']['mainpage_title'] = "Visualizza Server";
+$lang['title']['mainpage_description'] = "Vedi e gestisci i tuoi server Minecraft.";
+
+$lang['title']['createserver_title'] = "Crea Server";
+$lang['title']['createserver_description'] = "Crea il tuo personale server Minecraft.";
+
+$lang['title']['changeram_title'] = "Modifica RAM";
+$lang['title']['changeram_description'] = "Modifica le specifiche del tuo server.";
+
+$lang['title']['alwaysonline_title'] = "Sempre Online";
+$lang['title']['alwaysonline_description'] = "Lavori in corso.";
+
+$lang['title']['coins_title'] = "Monete";
+$lang['title']['coins_description'] = "Ottieni monete e scambiale per boostare il tuo server Minecraft.";
+
 // navigation bar
-$lang['nav']['dashboard'] = "Dashboard";
+$lang['nav']['dashboard'] = "Pannello di controllo";
 $lang['nav']['coins'] = "Monete";
 $lang['nav']['mainpage'] = "Pagina iniziale";
 $lang['nav']['servers'] = "Server";
@@ -55,12 +71,35 @@ $lang['resources']['diskbalance'] = " Massimo Spazio su Disco applicabile";
 $lang['resources']['databasesbalance'] = "Massimo di Database creabili";
 $lang['resources']['portsbalance'] = "Massimo di Porte creabili";
 
+// login page
+$lang['auth']['login_title'] = "FalixNodes";
+$lang['auth']['login_description'] = "Ottieni il tuo hosting gratuito adesso!";
+$lang['auth']['have_an_account'] = "Hai già un account?";
+$lang['auth']['have_an_account_button'] = "Accedi";
+$lang['auth']['dont_have_account_yet'] = "Non hai ancora un account? <br><a class='text-decoration-underline link-light' href='https://client.falixnodes.net/auth/register'>Crealo!</a>";
+$lang['auth']['useragreement'] = "Leggi le nostre <a class='text-decoration-underline text-white' href='https://falixnodes.net/user-agreement'>Condizioni Utente</a>";
+$lang['auth']['loginform_title'] = "Accedi al tuo account";
+$lang['auth']['form_email'] = "Indirizzo email";
+$lang['auth']['form_password'] = "Password";
+$lang['auth']['form_confirmpassword'] = "Conferma Password";
+$lang['auth']['loginform_forgotpassword'] = "Password Dimenticata?";
+$lang['auth']['loginform_button'] = "Accedi";
+$lang['auth']['oauthlogins'] = "oppure accedi con";
+$lang['auth']['register_oauthlogins'] = "oppure registrati con";
+$lang['auth']['google'] = "Google";
+$lang['auth']['discord'] = "Discord";
+$lang['auth']['registerform_title'] = "Registrati";
+$lang['auth']['registerform_button'] = "Registrati";
+$lang['auth']['registerform_tosaccept'] = "Accetto le <a href='https://falixnodes.net/user-agreement'>condizioni utente </a>e la <a href='https://falixnodes.net/privacy-policy'>informativa privacy</a>";
+$lang['auth']['registerform_marketingconsent'] = "Spunta questa casella se vuoi ricevere email di marketing con le nostre ultime offerte.";
+
 // index.php / main page
 $lang['manage_servers'] = "Controlla i tuoi server con il nostro semplice pannello di gioco.";
 
 // servers table
 $lang['servers'] = "I tuoi Server";
 $lang['logintogamepanel'] = "Entra nel pannello di gioco";
+$lang['logintogamepanel_button'] = "Pannello di gioco"
 
 $lang['server']['name'] = "NOME SERVER";
 $lang['server']['cpu'] = "CPU";
@@ -156,3 +195,62 @@ $lang['profile']['changegamepanelpassword_button'] = "Change Password";
 $lang['profile']['deleteaccount_title'] = "Cancella questo account";
 $lang['profile']['deleteaccount_description'] = "Una volta eliminato l'account non puoi più tornare indietro! Sei sicuro?";
 $lang['profile']['deleteaccount_button'] = "Cancella Account";
+
+// falixcoins store
+$lang['store']['plan_expire_on'] = "Il tuo piano si rinnoverà il";
+$lang['store']['month'] = "mesi";
+$lang['store']['cancelplan'] = "Cancella Piano";
+$lang['store']['purchase'] = "Acquista Ora";
+$lang['store']['booster'] = "Booster";
+
+$lang['store']['booster1_servers'] = "Crea fino a 3 server";
+$lang['store']['booster1_cpu'] = "Ottieni 120% di potenza CPU per ogni server";
+$lang['store']['booster1_ram'] = "Ottieni 6 GB di RAM";
+$lang['store']['booster1_disk'] = "Ottieni 15 GB di spazio su disco per ogni server";
+$lang['store']['booster1_mysql'] = "Ottieni 3 database MySQL per ogni server";
+$lang['store']['booster1_ports'] = "Ottieni 2 Porte Extra per ogni server";
+
+$lang['store']['booster2_servers'] = "Crea fino a 4 server";
+$lang['store']['booster2_cpu'] = "Ottieni 130% di potenza CPU per ogni server";
+$lang['store']['booster2_ram'] = "Ottieni 7 GB di RAM";
+$lang['store']['booster2_disk'] = "Ottieni 15 GB di spazio su disco per ogni server";
+$lang['store']['booster2_mysql'] = "Ottieni 3 database MySQL per ogni server";
+$lang['store']['booster2_ports'] = "Ottieni 2 Porte Extra per ogni server";
+
+$lang['store']['booster3_servers'] = "Crea fino a 5 server";
+$lang['store']['booster3_cpu'] = "Ottieni 140% di potenza CPU per ogni server";
+$lang['store']['booster3_ram'] = "Ottieni 8 GB di RAM";
+$lang['store']['booster3_disk'] = "Ottieni 15 GB di spazio su disco per ogni server";
+$lang['store']['booster3_mysql'] = "Ottieni 3 database MySQL per ogni server";
+$lang['store']['booster3_ports'] = "Ottieni 2 Porte Extra per ogni server";
+
+// tutorials
+$lang['tutorials']['createserver_stepone_title'] = "Crea il tuo server";
+$lang['tutorials']['createserver_stepone'] = "Prima volta qui? Non preoccuparti!<br />
+Inizia ad usare Falix creando il tuo primo server. Naviga alla pagina <a href='/create' target='_blank'>Crea Server</a> e inizia il processo di creazione compilando il form.<br />
+<br />
+<b>Nome Server:</b> Dai un nome al tuo server come 'Server degli Amici' oppure 'Il mio server'.<br />
+<b>Server RAM:</b> Questo potrebbe risultare confusionario, ma non preoccuparti! Leggi la nostra spiegazione <a data-bs-toggle='offcanvas' data-bs-target='#RAMExplanation' aria-controls='RAMExplanation' style='text-decoration: underline dotted; cursor: pointer;' href='#'>premendo qui</a>.<br />
+<br />
+Dopo aver completato il form, premi 'Crea' e ... congratulazioni! Il tuo primo server è stato creato. Vai su 'Gestisci il server' per scoprire come accedere.";
+
+$lang['tutorials']['createserver_steptwo_title'] = "Gestisci il server";
+$lang['tutorials']['createserver_steptwo'] = "Hai creato il tuo primo server, e ora?<br />
+Semplicissimo, accedi al tuo pannello di gioco prememndo il bottone 'Accedi al Pannello di Gioco' nell'angolo a destra nella tavola dei server.<br />
+<br />
+Dopodiché, riuscirai a vedere il pannello di gioco. Trova il to server nell'interfaccia e premici. Dopodiché, assicurati di navigare a Versioni che può essere trovata nella barra di navigazione.<br />
+<br />
+Ti sarà poi chiesto di selezionare il software e la versione più appropriata per il tuo server. Noi raccomandiamo di partire con Paper poiché è il software più ottimizzato per tutte le versioni. Poi trova la tua versione e selezionala.<br />
+<br />
+Una volta fatto questo, il tuo server è stato installato. Ora naviga al pannello del tuo server premendo il bottone 'Inizia'.<br />
+<br />
+Fantastico, il tuo server ora è avviato. Vai al prossimo tutorial per capire come connetterti.";
+
+$lang['tutorials']['createserver_stepthree_title'] = "Connettiti al tuo server";
+$lang['tutorials']['createserver_stepthree'] = "Il tuo server è avviato, e ora?<br />
+Tempo di giocarci! Ma come?<br />
+<br />
+Avvia il tuo client Minecraft con la versione che hai selezionato nel pannello di gioco. Fatto? Perfetto.<br />
+Adesso dovresti trovare l'indirizzo unico e la porta del tuo server, la puoi vedere al fondo della pagina Console. Di solito parte con <b>game#.falixserver.net:00000</b>. Trovata? Selezionala e copiala nella sezione Multiplayer di Minecraft.<br />
+<br />
+Connettiti e... Magnifico, sei dentro! Divertiti con i tuoi amici! Facile.";
